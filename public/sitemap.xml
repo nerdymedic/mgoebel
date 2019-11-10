@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/event16/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/emra/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +44,6 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +94,6 @@
   
   <url>
     <loc>/talk/event1/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url>
   
