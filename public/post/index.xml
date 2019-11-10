@@ -5,12 +5,25 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>DIY Headset Instructions</title>
+      <link>/post/diy-headset-instructions/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/diy-headset-instructions/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re looking for the DIY clearcom headset instructions, they&amp;rsquo;re on  my old website:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/a/matgoebel.com/matgoebel/projects/headset&#34; target=&#34;_blank&#34;&gt;DIY Lightweight Clearcom Headset&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/a/matgoebel.com/matgoebel/projects/diy-headset-appendix-plantronics-m130&#34; target=&#34;_blank&#34;&gt;DIY Headset Appendix: Plantronics m130&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
