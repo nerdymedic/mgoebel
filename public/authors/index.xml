@@ -77,15 +77,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Mat Goebel is an emergency medicine resident physician and researcher at Baystate Medical Center in Springfield, Massachusetts. His research interests include EMS, EKG, STEMI, cybersecurity, and NLP.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Christian Dameff</title>
       <link>/authors/christian-dameff/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -307,6 +298,15 @@
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>/authors/william-j-brady/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Mat Goebel is an emergency medicine resident physician and researcher at Baystate Medical Center in Springfield, Massachusetts. His research interests include EMS, EKG, STEMI, cybersecurity, and NLP.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
