@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Mat Goebel MD MAS NR-P</title>
+    <link>/publication_types/8/</link>
+      <atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>8</title>
+      <link>/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>2014 Prehospital/EMS articles of the Year</title>
+      <link>/publication/goebel-mat-2014-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-2014-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Winter T Wave</title>
+      <link>/publication/goebel-mat-winter-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-winter-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacemaker Panic #2</title>
+      <link>/publication/goebel-mat-pacemaker-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-pacemaker-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winter is Coming</title>
+      <link>/publication/goebel-mat-winter-2014-1/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-winter-2014-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

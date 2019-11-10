@@ -158,7 +158,7 @@
   translation: Preprint
 
 - id: pub_report
-  translation: Report
+  translation: Poster
 
 - id: pub_book
   translation: Book
@@ -167,10 +167,10 @@
   translation: Book section
 
 - id: pub_thesis
-  translation: Thesis
+  translation: Podcast
 
 - id: pub_patent
-  translation: Patent
+  translation: Blog Post
 
 # Project details
 

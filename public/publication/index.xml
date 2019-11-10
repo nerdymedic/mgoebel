@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Nexus C-Spine Journal Club</title>
+      <link>/publication/emra-nexus-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/emra-nexus-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Algorithm for Improving the Diagnostic Accuracy of Prehospital ST-Elevation Myocardial Infarction</title>
@@ -29,10 +37,26 @@
     </item>
     
     <item>
+      <title>Epidemiology of 911 Calls at the San Diego Border Crossing</title>
+      <link>/publication/farah-jennifer-epidemiology-2019-1/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/farah-jennifer-epidemiology-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Push Notifications Reduce Emergency Department Response Times to Prehospital ST-segment Elevation Myocardial Infarction</title>
       <link>/publication/goebel-push-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/publication/goebel-push-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of 911 Calls at the San Diego Border Crossing</title>
+      <link>/publication/farah-jennifer-epidemiology-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/farah-jennifer-epidemiology-2019/</guid>
       <description></description>
     </item>
     
@@ -73,6 +97,78 @@
       <link>/publication/tainter-emergency-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/publication/tainter-emergency-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients</title>
+      <link>/publication/goebel-mat-urban-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-urban-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Winter&#39;s T Wave</title>
+      <link>/publication/em-rap-winters-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/em-rap-winters-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push notifications reduce Emergency Department response times to pre-hospital ST-segment myocardial infarction</title>
+      <link>/publication/goebel-mat-push-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-push-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction</title>
+      <link>/publication/goebel-mat-novel-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-novel-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014 Prehospital/EMS articles of the Year</title>
+      <link>/publication/goebel-mat-2014-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-2014-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction</title>
+      <link>/publication/goebel-mat-novel-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-novel-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Winter T Wave</title>
+      <link>/publication/goebel-mat-winter-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-winter-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacemaker Panic #2</title>
+      <link>/publication/goebel-mat-pacemaker-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-pacemaker-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winter is Coming</title>
+      <link>/publication/goebel-mat-winter-2014-1/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-mat-winter-2014-1/</guid>
       <description></description>
     </item>
     

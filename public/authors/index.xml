@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title> EMRA</title>
+      <link>/authors/emra/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/emra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Christopher Kahn</title>
@@ -57,14 +65,6 @@
       <link>/authors/jodie-pierce/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jodie-pierce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mathew Goebel</title>
-      <link>/authors/mathew-goebel/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mathew-goebel/</guid>
       <description></description>
     </item>
     
@@ -274,6 +274,14 @@
       <link>/authors/zeb-m.-mcmillan/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/authors/zeb-m.-mcmillan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> EM:RAP</title>
+      <link>/authors/emrap/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/emrap/</guid>
       <description></description>
     </item>
     
