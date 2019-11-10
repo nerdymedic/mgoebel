@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph Bledsoe | Mat Goebel MD MAS NR-P</title>
+    <link>/authors/joseph-bledsoe/</link>
+      <atom:link href="/authors/joseph-bledsoe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph Bledsoe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Joseph Bledsoe</title>
+      <link>/authors/joseph-bledsoe/</link>
+    </image>
+    
+    <item>
+      <title>Push Notifications Reduce Emergency Department Response Times to Prehospital ST-segment Elevation Myocardial Infarction</title>
+      <link>/publication/goebel-push-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-push-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for predicting emergency physician opinion of electrocardiogram tracing data quality</title>
+      <link>/publication/goebel-model-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-model-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new ST-segment elevation myocardial infarction equivalent pattern? Prominent T wave and J-point depression in the precordial leads associated with ST-segment elevation in lead aVr.</title>
+      <link>/publication/goebel-new-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-new-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

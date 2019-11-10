@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jodie Pierce | Mat Goebel MD MAS NR-P</title>
+    <link>/authors/jodie-pierce/</link>
+      <atom:link href="/authors/jodie-pierce/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jodie Pierce</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jodie Pierce</title>
+      <link>/authors/jodie-pierce/</link>
+    </image>
+    
+    <item>
+      <title>Epidemiology of Prehospital Care at the San Diego (USA) - Tijuana (Mexico) International Border Crossing</title>
+      <link>/publication/farah-epidemiology-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/farah-epidemiology-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Urban 911 System’s Experience with Left Ventricular Assist Device Patients</title>
+      <link>/publication/goebel-urban-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goebel-urban-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
