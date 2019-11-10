@@ -99,6 +99,14 @@
     </item>
     
     <item>
+      <title>NSTEMIs that need the cath lab now, Part 1</title>
+      <link>/talk/event1/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/event1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epidemiology of Prehospital Care at the San Diego (USA) - Tijuana (Mexico) International Border Crossing</title>
       <link>/publication/farah-epidemiology-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -329,9 +337,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Surviving Suicide - coping with the silent epidemic</title>
-      <link>/talk/event11/</link>
+      <link>/talk/event12/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/event11/</guid>
+      <guid>/talk/event12/</guid>
       <description></description>
     </item>
     
@@ -379,9 +387,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients</title>
-      <link>/talk/event13/</link>
+      <link>/talk/event14/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/talk/event13/</guid>
+      <guid>/talk/event14/</guid>
       <description></description>
     </item>
     
@@ -436,6 +444,14 @@ $$&lt;/p&gt;
     
     <item>
       <title>2015 Pre-hospital Research Update</title>
+      <link>/talk/event11/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/event11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSTEMIs that need the cath lab now</title>
       <link>/talk/event10/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/talk/event10/</guid>
@@ -443,18 +459,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>NSTEMIs that need the cath lab now</title>
-      <link>/talk/event9/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/event9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction</title>
-      <link>/talk/event14/</link>
+      <link>/talk/event15/</link>
       <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/event14/</guid>
+      <guid>/talk/event15/</guid>
       <description></description>
     </item>
     
@@ -468,9 +476,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Killer EKGs (other than STEMI)</title>
-      <link>/talk/event8/</link>
+      <link>/talk/event9/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>/talk/event8/</guid>
+      <guid>/talk/event9/</guid>
       <description></description>
     </item>
     
@@ -508,9 +516,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Prehospital Diagnosis of ST-segment elevated myocardial infarction</title>
-      <link>/talk/event12/</link>
+      <link>/talk/event13/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/talk/event12/</guid>
+      <guid>/talk/event13/</guid>
       <description></description>
     </item>
     
@@ -532,49 +540,41 @@ $$&lt;/p&gt;
     
     <item>
       <title>Code STEMI Train the Trainer</title>
-      <link>/talk/event7/</link>
+      <link>/talk/event8/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/event7/</guid>
+      <guid>/talk/event8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best Practices for STEMI care at Intermountain Medical Center</title>
-      <link>/talk/event6/</link>
+      <link>/talk/event7/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/event7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEMI Pearls and Pitfalls</title>
+      <link>/talk/event6/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/talk/event6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>STEMI Pearls and Pitfalls</title>
+      <title>EKG Pearls and Pitfalls in the ED</title>
       <link>/talk/event5/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>/talk/event5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EKG Pearls and Pitfalls in the ED</title>
+      <title>What’s new in Pre-hospital STEMI</title>
       <link>/talk/event4/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>/talk/event4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What’s new in Pre-hospital STEMI</title>
-      <link>/talk/event3/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/event3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEMI Pearls and Pitfalls</title>
-      <link>/talk/event1/</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/talk/event1/</guid>
       <description></description>
     </item>
     
@@ -583,6 +583,14 @@ $$&lt;/p&gt;
       <link>/talk/event2/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       <guid>/talk/event2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEMI Pearls and Pitfalls</title>
+      <link>/talk/event3/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/talk/event3/</guid>
       <description></description>
     </item>
     

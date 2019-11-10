@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: South Salt Lake City
+  city: Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2012-02-01
-event: Department In-service
+date: 2019-08-28
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: South Salt Lake Fire Department
+location: Baystate Medical Center
 math: true
 publishDate: 2019-11-10
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: NSTEMIs that need the cath lab now, Part 1
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
+url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
 url_video: 
 ---
