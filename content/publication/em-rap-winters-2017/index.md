@@ -6,7 +6,7 @@ authors: [" EM:RAP", "Mat Goebel"]
 publication_types: ["7"]
 abstract: ""
 featured: false
-publication: ""
+publication: "EM:RAP Live"
 url_video: "https://www.emrap.org/episode/emrapliveaugust/dewinterstwave"
 ---
 

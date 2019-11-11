@@ -6,7 +6,7 @@ authors: [" EMRA"]
 publication_types: ["7"]
 abstract: ""
 featured: false
-publication: ""
+publication: "EMRACast"
 url_video: "https://podcasts.apple.com/us/podcast/nexus-c-spine/id1103929517?i=1000451898430"
 ---
 
