@@ -14,7 +14,6 @@ categories:
   - Uncategorized
 
 ---
->[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/magritte-not-a-pipe.jpeg?w=300" alt="" border="0" />][1]
 
 <div style="text-align:center;">
   <div style="text-align:left;">
@@ -111,5 +110,3 @@ Rule #1: Any correlation between the dispatch and the actual call is strictly a 
 <div class="blogger-post-footer">
   <img alt="" width="1" height="1" />
 </div>
-
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/magritte-not-a-pipe.jpeg

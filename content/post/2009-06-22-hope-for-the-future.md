@@ -14,7 +14,6 @@ categories:
   - Uncategorized
 
 ---
-[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/image55.gif?w=130" alt="" border="0" />][1]
 
 People often look at &#8220;kids today&#8221; and worry about what the world is coming to.
 
@@ -33,5 +32,3 @@ I was humbled to be a part of an early experience in their life that hopefully t
 <div class="blogger-post-footer">
   <img alt="" width="1" height="1" />
 </div>
-
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/image55.gif

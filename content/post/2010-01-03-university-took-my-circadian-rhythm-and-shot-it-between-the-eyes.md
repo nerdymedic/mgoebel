@@ -25,10 +25,6 @@ Napping is awesome for increasing your alertness, productivity, and cognitive fu
 The most important aspect of a nap is the duration. Secondarily, there are a some adjuncts you can use to increase the quality of your sleep.
 
 <div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep_cycle.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep_cycle.jpeg?w=300" alt="" border="0" /></a>
-</div>
-
-<div class="separator" style="clear:both;text-align:center;">
   <a href="http://www.sleep-problems.com/sleep_architecture/stages_of_sleep/"><span class="Apple-style-span" style="font-size:small;">Photo credit</span></a>
 </div>
 
@@ -47,10 +43,6 @@ Understanding your sleep cycle is the key to getting an energising nap. Since we
 Sometimes we can use adjuncts to increase the quality of our nap and help us get to sleep faster.
 
 **A. Sleep Mask**
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep-mask1.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep-mask1.jpeg?w=300" alt="" border="0" /></a>
-</div>
 
 <div style="text-align:center;">
   <a href="http://leisureguy.wordpress.com/2006/08/02/tips-for-better-sleep/"><span class="Apple-style-span" style="font-size:small;">Photo Credit</span></a>
@@ -84,14 +76,6 @@ Sometimes we can use adjuncts to increase the quality of our nap and help us get
   <strong>B. Ear Plugs</strong>
 </div>
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/mmm3404004_1_12.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/mmm3404004_1_12.jpeg?w=300" alt="" border="0" /></a>
-</div>
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://a.%20sleep%20mask/"><span class="Apple-style-span" style="font-size:small;">Photo Credit</span></a>
-</div>
-
 <div style="text-align:left;">
   <strong><br /> </strong>
 </div>
@@ -116,14 +100,6 @@ Sometimes we can use adjuncts to increase the quality of our nap and help us get
   <strong>C. Caffeine</strong>
 </div>
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://nerdymedic.files.wordpress.com/2010/01/070815_coke_vmed_11awidec2.jpeg"><img src="http://nerdymedic.files.wordpress.com/2010/01/070815_coke_vmed_11awidec2.jpeg?w=162" alt="" border="0" /></a>
-</div>
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a href="http://coolaggregator.wordpress.com/2008/06/"><span class="Apple-style-span" style="font-size:small;">Photo Credit</span></a>
-</div>
-
 <div style="text-align:left;">
   <strong><br /> </strong>
 </div>
@@ -134,14 +110,6 @@ Sometimes we can use adjuncts to increase the quality of our nap and help us get
 
 <div style="text-align:left;">
   <strong>4 &#8211; Conclusion / Summary</strong>
-</div>
-
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/google_cat_nap2.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/google_cat_nap2.jpeg?w=300" alt="" border="0" /></a>
-</div>
-
-<div style="text-align:center;">
-  <a href="http://www.catsarepeople2.com/"><span class="Apple-style-span" style="font-size:small;">Photo Credit</span></a>
 </div>
 
 <div style="text-align:left;">

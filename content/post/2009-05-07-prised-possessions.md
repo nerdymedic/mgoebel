@@ -14,7 +14,6 @@ categories:
   - Uncategorized
 
 ---
-[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/lfhp.jpg?w=150" alt="" border="0" />][1]
 
 If this was in blue it would be my LifeFlight sweater. It&#8217;s one of my most prised possessions.
 
@@ -26,4 +25,3 @@ What does that say about me?
   <img alt="" width="1" height="1" />
 </div>
 
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/lfhp.jpg

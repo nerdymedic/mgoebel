@@ -14,7 +14,7 @@ categories:
   - Uncategorized
 
 ---
-[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/204725_7kcqu1kqbn3qqu4v2bkfsl8q_.jpeg?w=300" alt="" border="0" />][1]
+
 
 <div style="text-align:left;">
   <span class="Apple-style-span" style="color:#0000ee;"><span style="text-decoration:underline;"><br /> </span></span>
@@ -63,5 +63,3 @@ Maybe this medicine thing will work out after all.
 <div class="blogger-post-footer">
   <img alt="" width="1" height="1" />
 </div>
-
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/204725_7kcqu1kqbn3qqu4v2bkfsl8q_.jpeg

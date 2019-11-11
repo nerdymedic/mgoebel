@@ -31,9 +31,7 @@ Ever wish you could visit the cadaver lab in your spare minutes between classes?
     <a href="http://thinkanatomy.com/2009/12/anatomylab-app/">Review and purchasing link</a>.
   </div>
   
-  <div class="separator" style="clear:both;text-align:center;">
-    <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/5banatomy2blab52.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/5banatomy2blab52.jpeg?w=200" alt="" border="0" /></a>
-  </div>
+
 </div>
 
 <div class="blogger-post-footer">

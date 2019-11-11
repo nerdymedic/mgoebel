@@ -14,7 +14,7 @@ categories:
   - Uncategorized
 
 ---
-[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00007.jpg?w=300" alt="" border="0" />][1]
+
 
 Last night it was unseasonably cold, so I was wearing my reflective EMS jacket because it&#8217;s warm and cozy. I was sitting at Starbucks with a friend talking about <span id="SPELLING_ERROR_0" class="blsp-spelling-corrected">health care</span> reform &#8211; which she&#8217;s actually <span id="SPELLING_ERROR_1" class="blsp-spelling-corrected">involved</span> with in her job at the House in DC.
 
@@ -31,5 +31,3 @@ Yeah&#8230;no. None for you.
 <div class="blogger-post-footer">
   <img alt="" width="1" height="1" />
 </div>
-
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00007.jpg

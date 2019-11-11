@@ -14,9 +14,6 @@ categories:
   - Uncategorized
 
 ---
-<p style="text-align:center;">
-  <a href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/bodies1.gif"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/bodies1.gif?w=300" alt="" border="0" /></a>
-</p>
 
 Today I went to &#8220;Bodies &#8211; The Exhibition&#8221; in Las Vegas at the the Luxor. Most people sort of glanced at things and stayed an arms length away form the cadavers. They seemed to be I got as close as I possibly could (inches) from the cadavers and read every word of every exhibit. At one point, wtih my face inches from an opened thoracic cavity, I muttered &#8220;these don&#8217;t smell like cadavers&#8221; under my breath and received strange glances from the other people in the hall.
 

@@ -14,9 +14,7 @@ categories:
   - Uncategorized
 
 ---
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/photo.jpg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/photo.jpg?w=300" alt="" border="0" /></a>
-</div>
+
 
 This weekend I&#8217;m visiting southern California. My first stop after landing was a bonfire on the beach. While getting the fire going and cooking some hot dogs, I noticed a regular pattern of Lifeguard vehicles driving back and forth. Meh.
 

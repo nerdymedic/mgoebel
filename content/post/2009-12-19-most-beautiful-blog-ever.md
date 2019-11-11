@@ -22,9 +22,6 @@ _Sidebar: _I&#8217;m not the only one who enjoy this stuff. After I shared it w
 
 I found [this][3] series [featured on the blog][4] particularly gorgeous. It fuses two of my favourite things: anatomy and technical drawing/sketching.
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/10547512442326322.jpeg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/10547512442326322.jpeg?w=232" alt="" border="0" /></a>
-</div>
 
 <div class="blogger-post-footer">
   <img alt="" width="1" height="1" />

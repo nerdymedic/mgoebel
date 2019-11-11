@@ -14,9 +14,7 @@ categories:
   - Uncategorized
 
 ---
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr.gif"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr.gif?w=300" alt="" width="320" height="246" border="0" /></a>
-</div>
+
 
 <div style="text-align:left;">
   In my feeble attempts to make myself more valuable, I went ahead and got an AHA Instructor certification. Yes, I am a CPR instructor but have never had a chance to do CPR on a real patient. Still, I know all the protocols and procedures, ratio, etc., forward, backward, inside and out. My EMS Coordinator asked me to help with skills testing for CPR recertification this year.

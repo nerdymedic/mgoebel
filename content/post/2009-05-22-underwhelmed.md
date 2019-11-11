@@ -18,8 +18,6 @@ categories:
   <span style="font-weight:bold;">warning</span>: mixed theatre/film and EMS content ahead
 </div>
 
-[<img class="aligncenter" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00005.jpg?w=225" alt="" border="0" />][1]
-
 On Monday I went to the &#8220;[Level Zero][2]&#8221; premiere. From the trailer, it appears to be a fast paced, for-EMS-by-EMS documentary of work in Alameda County. That wasn&#8217;t quite the case.
 
 The film is actually a 20 minute short only loosely associated with doc form. We loosely follow a couple EMTs and Medics through a fictitious busy day. The film consists of interviewing featured EMS providers about why they love EMS, how they got into it, etc., interspersed with some fictional depictions of real EMS work.
@@ -33,7 +31,3 @@ All in all, now understanding the intent of the event and the film &#8211; that 
 <div class="blogger-post-footer">
   <img src="https://blogger.googleusercontent.com/tracker/494505435792145067-4691745377047164866?l=nerdymedic.blogspot.com" alt="" width="1" height="1" />
 </div>
-
- [1]: http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00005.jpg
- [2]: http://www.google.com/url?sa=t&source=web&ct=res&cd=2&url=http%3A%2F%2Flevelzeromovie.com%2F2009%2F04%2F10%2Flevel-zero-movie-trailer%2F&ei=NAQXSszPFY6UswOYme3ZCA&usg=AFQjCNHeDBuahQHWLFk1kJElDMA2JKtoAw
- [3]: http://abc.go.com/specials/hopkins/

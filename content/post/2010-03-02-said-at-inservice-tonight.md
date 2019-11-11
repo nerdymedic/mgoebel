@@ -20,10 +20,6 @@ NA: Could be cardiac. Maybe a congenital heart defect?
   
 Lecturer: Yes, very good. Let&#8217;s define that word for anyone who doesn&#8217;t know it. For starters, it has nothing to do with the genitals. (collective giggle) This is your heart. Here I&#8217;ll make the left ventricle bigger so it&#8217;s anatomically correct. And here are the pacemakers.
 
-<div class="separator" style="clear:both;text-align:center;">
-  <a style="margin-left:1em;margin-right:1em;" href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/thumpy.jpg"><img src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/thumpy.jpg?w=300" alt="" width="320" height="300" border="0" /></a>
-</div>
-
 Face palm. I used to wonder why people make fun of us for being &#8220;just BLS.&#8221;
 
 I guess that answers that.

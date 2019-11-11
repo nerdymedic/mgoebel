@@ -8,9 +8,6 @@ categories:
   - Uncategorized
 
 ---
-<p style="text-align:center;">
-  <a href="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg"><img class="aligncenter size-medium wp-image-335" title="infant manikin" src="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg?w=300" alt="" width="300" height="217" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg 535w, http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1-300x218.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</p>
 
 A few years ago I became a CPR instructor for no real reason other than I wanted to. My very first CPR class had a half dozen students from the theatre department where I was doing my undergrad.
 

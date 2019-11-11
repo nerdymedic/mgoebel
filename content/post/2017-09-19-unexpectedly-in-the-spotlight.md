@@ -10,8 +10,6 @@ categories:
 ---
 I&#8217;ve been lucky enough to get involved with the EM:RAP crew, helping with their monthly live broadcasts. At the last show, they had a segment on DeWinter T-waves where Stuart Swadron was using an article I wrote as part of his presentation! I ended getting interviewed and answering some EKG questions.
 
-<img class="alignnone size-full wp-image-396" src="http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap.png" alt="emrap" width="847" height="434" srcset="http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap.png 847w, http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap-300x154.png 300w, http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap-768x394.png 768w" sizes="(max-width: 847px) 100vw, 847px" />
-
 Check out the segment [here][1], the [publication here][2], and the [FOAM content][3] at [LITFL][4].
 
 &nbsp;
