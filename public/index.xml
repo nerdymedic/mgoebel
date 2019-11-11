@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Mat Goebel MD MAS NR-P</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Mon, 11 Nov 2019 00:48:16 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Mat Goebel MD MAS NR-P</title>
@@ -83,15 +83,6 @@
     </item>
     
     <item>
-      <title>Hello world!</title>
-      <link>/p1/</link>
-      <pubDate>Mon, 11 Nov 2019 00:48:16 +0000</pubDate>
-      <guid>/p1/</guid>
-      <description>&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>DIY Headset Instructions</title>
       <link>/post/diy-headset-instructions/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
@@ -110,15 +101,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/emra-nexus-2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>New Article: Novel algorithm for prehospital diagnosis of STEMI</title>
-      <link>/p410/</link>
-      <pubDate>Wed, 11 Sep 2019 16:31:56 +0000</pubDate>
-      <guid>/p410/</guid>
-      <description>&lt;p&gt;New article published today! &lt;a href=&#34;https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/novel-algorithm-for-improving-the-diagnostic-accuracy-of-prehospital-stelevation-myocardial-infarction/0C10A5E787959EFEFDA0BC9E983325BF/share/b01a901293d4f112979007cd6763ec4209d0fe66&#34; target=&#34;_blank&#34;&gt;A Novel Algorithm for Improving the Diagnostic Accuracy of Prehospital ST-Elevation Myocardial Infarction&lt;/a&gt; in Prehospital Disaster Medicine. Follow the link for free full-text!&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -359,17 +341,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>New article in Prehospital Emergency Care</title>
-      <link>/p407/</link>
-      <pubDate>Sat, 13 Oct 2018 20:39:13 +0000</pubDate>
-      <guid>/p407/</guid>
-      <description>&lt;p&gt;I&amp;#8217;ve published another article, &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/10903127.2018.1532475&#34; target=&#34;_blank&#34;&gt;this time in PEC.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Goebel M, Tainter C, Kahn C, et al. An Urban 911 System’s Experience with Left Ventricular Assist Device Patients. Prehospital Emerg Care. October 2018:1-19. doi:10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10903127&lt;/sub&gt;.2018.1532475&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An Urban 911 System’s Experience with Left Ventricular Assist Device Patients</title>
       <link>/publication/goebel-urban-2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -417,15 +388,6 @@ $$&lt;/p&gt;
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Publication</title>
-      <link>/p401/</link>
-      <pubDate>Wed, 09 May 2018 20:22:38 +0000</pubDate>
-      <guid>/p401/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0736467918303457&#34; target=&#34;_blank&#34;&gt;Prehospital Acute ST-Elevation Myocardial Infarction Identification in San Diego: A Retrospective Analysis of the Effect of a New Software Algorithm&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -783,7 +745,7 @@ $$&lt;/p&gt;
 
 &lt;p&gt;Toward the end of the shift I had some chores to do &amp;#8211; namely refilling the blanket and fluid warmers. This includes the trauma bays. I did every other part of the ED first. Then I did all the other trauma bays, hoping that I would run out of clean blankets before I got to where she was so I wouldn&amp;#8217;t have to see her&amp;#8230;no, so I wouldn&amp;#8217;t have to disturb her. I swore in my head a little when I still had blankets as my cart squeaked up to the threshold outside her room. I carefully and quietly peered in to make sure no family were present. It had been hours, but who knows.&lt;/p&gt;
 
-&lt;p&gt;She was on the table, laying there peacefully with her arms unnaturally still at her sides. The ETT tube was still in place. Her face and hands were ashen. The room was dark except for a single light above the table that illuminated her white draped form. Two empty chairs from the lobby flanked the table. I quietly slid in to refill the blanket and fluid warmers. The hair on the back of my neck was standing on end. My heart was racing. My mind was going even faster, calculating all the reasons that this shouldn&amp;#8217;t be happening. Every ounce of my being cried out &amp;#8220;this thing should not be.&amp;#8221; I realised that what I&amp;#8217;d felt earlier was not sickness, but sadness.&lt;/p&gt;
+&lt;p&gt;She was on the table, laying there peacefully with her arms unnaturally still at her sides. The ET tube was still in place. Her face and hands were ashen. The room was dark except for a single light above the table that illuminated her white draped form. Two empty chairs from the lobby flanked the table. I quietly slid in to refill the blanket and fluid warmers. The hair on the back of my neck was standing on end. My heart was racing. My mind was going even faster, calculating all the reasons that this shouldn&amp;#8217;t be happening. Every ounce of my being cried out &amp;#8220;this thing should not be.&amp;#8221; I realised that what I&amp;#8217;d felt earlier was not sickness, but sadness.&lt;/p&gt;
 
 &lt;p&gt;I apologised for disturbing her, and not just in my head. You might think it&amp;#8217;s weird, but if you&amp;#8217;ve spent any significant amount of time working in a cadaver lab, you&amp;#8217;ve likely started talking to them. It&amp;#8217;s probably more to put me at ease, but I like to think they can hear me. Well not the physical-them that I&amp;#8217;m working with, but the spirit-them that&amp;#8217;s now out there somewhere.&lt;/p&gt;
 
@@ -802,61 +764,6 @@ $$&lt;/p&gt;
 &lt;p&gt;I hope in some small way that writing this out will be therapeutic and help me organise my feelings. I know this is just the first of many of these experiences that I&amp;#8217;ll have in emergency medicine. It has to be a valuable lesson &amp;#8211; of what I&amp;#8217;m not sure yet.&lt;/p&gt;
 
 &lt;p&gt;I just hope that when I close my eyes to go to sleep tonight, that I can stop seeing her face.&lt;/p&gt;
-
-&lt;div class=&#34;blogger-post-footer&#34;&gt;
-  &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paranoid?</title>
-      <link>/p154/</link>
-      <pubDate>Sat, 14 Aug 2010 20:13:00 +0000</pubDate>
-      <guid>/p154/</guid>
-      <description>&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a class=&#34;vt-p&#34; style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/spy-vs-spy-without-bombs-775529.jpg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/spy-vs-spy-without-bombs-775529.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I&amp;#8217;m paranoid.&lt;/p&gt;
-
-&lt;p&gt;My passwords for every online account are different. Many of them are randomly generated strings that are stored in an encrypted file. Common things like gmail and facebook I have memorised.&lt;/p&gt;
-
-&lt;p&gt;Understandably, I am a little leery of using a shared terminal at work to access any of my personal accounts (on my breaks of course). So what&amp;#8217;s a nerd to do?&lt;/p&gt;
-
-&lt;p&gt;Ladies and gentlemen, may I present to you the wonderful world of portable apps.&lt;/p&gt;
-
-&lt;p&gt;You can run Google Chrome from your own personal flash drive. Chrome&amp;#8217;s incognito mode will prevent any trace of your browsing from being stores on the machine you&amp;#8217;re using. It will not mask your browsing from whatever proxies or monitoring your company is using &amp;#8211; after all if you&amp;#8217;re using their bandwidth I think they have every right to know what you&amp;#8217;re looking at, just not to store your passwords and the like.&lt;/p&gt;
-
-&lt;p&gt;So download it &lt;a href=&#34;http://portableapps.com/apps/internet/google_chrome_portable&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;{.vt-p} and put it on your flashdrive. Incognito mode is accessed by hitting control+shift+n. A new window will open with a guy who looks like he&amp;#8217;s from Spy v. Spy on the upper left corner.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;#8217;re looking to store your passwords securely and take them with you, try &lt;a href=&#34;http://portableapps.com/apps/utilities/keepass_portable&#34; target=&#34;_blank&#34;&gt;Keepass portable&lt;/a&gt;{.vt-p}.&lt;/p&gt;
-
-&lt;p&gt;And now for my last trick, let&amp;#8217;s talk about long distance codes.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;#8217;re like me, you may have been seduced by Apple into buying an iPhone. Which also means, that like me, you&amp;#8217;re often unable to make or receive phone calls. Using the phone at work (on your break) may sound appealing, but you might have a problem if your employer uses long distance codes to (rightfully) control outbound phone access.&lt;/p&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a class=&#34;vt-p&#34; style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/googlevoicelogo11.jpg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/googlevoicelogo11.jpg?w=222&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The solution? Google Voice. GV let&amp;#8217;s you place free long-distance calls by calling you on a land-line (so the inbound call is free) and then connecting you to the other number once you answer.&lt;/p&gt;
-
-&lt;p&gt;So to make calls at work, with a long distance code and at no expense to your employer:&lt;/p&gt;
-
-&lt;p&gt;Make a Google Voice account. I suggest getting the new number just so you can have free SMS.&lt;/p&gt;
-
-&lt;p&gt;Log in, click settings &amp;gt; voice settings.&lt;/p&gt;
-
-&lt;p&gt;&amp;#8220;Add another phone&amp;#8221;&lt;/p&gt;
-
-&lt;p&gt;Enter the direct dial for your work number, with a name, change the type to work, and make sure the texting box is unchecked. Click save.&lt;/p&gt;
-
-&lt;p&gt;A box will popup. Click connect and it will call your work phone. When you answer, enter the code on the screen to confirm that you actually have access to this line. Back at the setup screen, un-check your work number so calls do not forward to it.&lt;/p&gt;
-
-&lt;p&gt;Now when you place a GV call, you can have it connected to your work phone! No long distance code required, no cost to your employed.&lt;/p&gt;
-
-&lt;p&gt;Just be responsible. Hope you enjoyed this tip!&lt;/p&gt;
 
 &lt;div class=&#34;blogger-post-footer&#34;&gt;
   &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
@@ -1071,7 +978,7 @@ $$&lt;/p&gt;
 
 &lt;p&gt;Lifeguards provide absolutely life savings extrication and rescue manoeuvres. They can perform BLS care early in an incident when it has the best chance of savings someone&amp;#8217;s life. But&amp;#8230;that&amp;#8217;s about all they do. Lifeguards are not God&amp;#8217;s gift to emergency response. More than once I&amp;#8217;ve been on a scene and had someone bound up to declare &amp;#8220;I&amp;#8217;m a Lifeguard, I can help&amp;#8221; or &amp;#8220;I&amp;#8217;ll take it from here guys.&amp;#8221; I actually had one guy try to muscle in between me and a patient. A quick glare and he was put in his place by the officer on scene.&lt;/p&gt;
 
-&lt;p&gt;One of my rules is that if it felt good to say it then it probably shouldn&amp;#8217;t have been said. The second time a Lifeguard did this to me on scene I said &amp;#8220;Well does it looks like he&amp;#8217;s drowning? Back off, Baywatch.&amp;#8221; He looked at me like I&amp;#8217;d kicked a puppy, then slowly sulked away. I almost felt bad.&lt;/p&gt;
+&lt;p&gt;The second time a Lifeguard did this to me on scene a  cop said &amp;#8220;Well does it looks like he&amp;#8217;s drowning? Back off, Baywatch.&amp;#8221; I almost felt bad for him.&lt;/p&gt;
 
 &lt;p&gt;Almost&amp;#8230;&lt;/p&gt;
 
@@ -2423,11 +2330,11 @@ $$&lt;/p&gt;
 
 &lt;p&gt;Last night it was unseasonably cold, so I was wearing my reflective EMS jacket because it&amp;#8217;s warm and cozy. I was sitting at Starbucks with a friend talking about &lt;span id=&#34;SPELLING_ERROR_0&#34; class=&#34;blsp-spelling-corrected&#34;&gt;health care&lt;/span&gt; reform &amp;#8211; which she&amp;#8217;s actually &lt;span id=&#34;SPELLING_ERROR_1&#34; class=&#34;blsp-spelling-corrected&#34;&gt;involved&lt;/span&gt; with in her job at the House in DC.&lt;/p&gt;
 
-&lt;p&gt;You can&amp;#8217;t see a thing in this crappy picture &amp;#8211; thanks &lt;span id=&#34;SPELLING_ERROR_2&#34; class=&#34;blsp-spelling-error&#34;&gt;BlackBerry&lt;/span&gt; &amp;#8211; but it was an &lt;span id=&#34;SPELLING_ERROR_3&#34; class=&#34;blsp-spelling-error&#34;&gt;MVA&lt;/span&gt; involving 4 cars and as many patients. It happened right in front of me. As soon as it happened, I ran into the intersection and started checking on the occupants of the vehicles. Only one car had its airbags deployed. Everyone denied injury. Dang it.&lt;/p&gt;
+&lt;p&gt;It was an &lt;span id=&#34;SPELLING_ERROR_3&#34; class=&#34;blsp-spelling-error&#34;&gt;MVA&lt;/span&gt; involving 4 cars and as many patients. It happened right in front of me. As soon as it happened, I ran into the intersection and started checking on the occupants of the vehicles. Only one car had its airbags deployed. Everyone denied injury.&lt;/p&gt;
 
 &lt;p&gt;An officer arrived quickly, and I advised him that airbags had deployed in one vehicle but that no one was seriously injury and that Fire and EMS could probably downgrade their response from Code3. I knew we were two blocks from the closest Fire station and three blocks from the closest ambulance post. Lights and sirens wouldn&amp;#8217;t have really improved the response time &amp;#8211; but alas, I think the people demand it. A fire engine and ambulance came flying in, lights and sirens blazing in all the glory that I don&amp;#8217;t get to have. Having made no difference, I sulked back to Starbucks to tend to my caramel apple cider.&lt;/p&gt;
 
-&lt;p&gt;By the time the Big Ambulance Company arrived on scene, Fire had already started cleanup of the fluids leaking from the mini-van that was hit head on. The ambulance medic actually convinced one of the people &lt;span id=&#34;SPELLING_ERROR_4&#34; class=&#34;blsp-spelling-corrected&#34;&gt;involved&lt;/span&gt; in the accident to get in the back of the rig. They probably pulled the old &amp;#8220;an &lt;span id=&#34;SPELLING_ERROR_5&#34; class=&#34;blsp-spelling-corrected&#34;&gt;ambulance&lt;/span&gt; ride is cheaper than a funeral&amp;#8221; gag. I&amp;#8217;ll bet they even called it a trauma activation *rolls eyes*.&lt;/p&gt;
+&lt;p&gt;By the time the Big Ambulance Company arrived on scene, Fire had already started cleanup of the fluids leaking from the mini-van that was hit head on. The ambulance medic actually convinced one of the people &lt;span id=&#34;SPELLING_ERROR_4&#34; class=&#34;blsp-spelling-corrected&#34;&gt;involved&lt;/span&gt; in the accident to get in the back of the rig. They probably pulled the old &amp;#8220;an &lt;span id=&#34;SPELLING_ERROR_5&#34; class=&#34;blsp-spelling-corrected&#34;&gt;ambulance&lt;/span&gt; ride is cheaper than a funeral&amp;#8221; gag. I&amp;#8217;ll bet they even called it a trauma activation *rolls eyes*  - because look at that mechanism of  injury.&lt;/p&gt;
 
 &lt;p&gt;I mean, I guess it&amp;#8217;s good no one was hurt because I didn&amp;#8217;t have any actual kit with me besides gloves. Maybe an arrest? Bystander CPR makes a difference.&lt;/p&gt;
 
@@ -2489,8 +2396,6 @@ $$&lt;/p&gt;
       <description>&lt;p&gt;I&amp;#8217;ve spent the entire day at a high-end professional speaker manufacturer learning about sound system measurement, alignment, and tuning. There was a time when I would have really enjoyed this. Instead I find it hard to concentrate.&lt;/p&gt;
 
 &lt;p&gt;On the train ride home I&amp;#8217;m listening to EMS CE lecture podcasts. I&amp;#8217;m reading EMS blogs. I&amp;#8217;m writing in my blog about how much I love EMS.&lt;/p&gt;
-
-&lt;p&gt;Then there&amp;#8217;s the hot girl sitting next to me, but she&amp;#8217;s wearing a &lt;a href=&#34;http://en.wikipedia.org/wiki/Claddagh_ring&#34; target=&#34;_blank&#34;&gt;claddagh ring&lt;/a&gt; &amp;#8211; crown out. Damn.&lt;/p&gt;
 
 &lt;p&gt;If this is what I choose to do in my spare time, why don&amp;#8217;t I just go in head first? What am I afraid of &amp;#8211; actually enjoying what I do?&lt;/p&gt;
 

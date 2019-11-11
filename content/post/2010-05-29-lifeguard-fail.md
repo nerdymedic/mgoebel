@@ -40,7 +40,7 @@ I know hindsight is 20/20 and I wasn&#8217;t actually on-scene evaluating the pa
 
 Lifeguards provide absolutely life savings extrication and rescue manoeuvres. They can perform BLS care early in an incident when it has the best chance of savings someone&#8217;s life. But&#8230;that&#8217;s about all they do. Lifeguards are not God&#8217;s gift to emergency response. More than once I&#8217;ve been on a scene and had someone bound up to declare &#8220;I&#8217;m a Lifeguard, I can help&#8221; or &#8220;I&#8217;ll take it from here guys.&#8221; I actually had one guy try to muscle in between me and a patient. A quick glare and he was put in his place by the officer on scene.
 
-One of my rules is that if it felt good to say it then it probably shouldn&#8217;t have been said. The second time a Lifeguard did this to me on scene I said &#8220;Well does it looks like he&#8217;s drowning? Back off, Baywatch.&#8221; He looked at me like I&#8217;d kicked a puppy, then slowly sulked away. I almost felt bad.
+The second time a Lifeguard did this to me on scene a  cop said &#8220;Well does it looks like he&#8217;s drowning? Back off, Baywatch.&#8221; I almost felt bad for him.
 
 Almost&#8230;
 
