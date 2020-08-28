@@ -53,4 +53,4 @@ user_groups:
 - Visitors
 ---
 
-Mat Goebel is an emergency medicine resident physician and researcher at Baystate Medical Center in Springfield, Massachusetts. His research interests include EMS, EKG, STEMI, cybersecurity, and NLP.
+Mat Goebel is an emergency medicine resident physician and researcher at Baystate Medical Center in Springfield, Massachusetts. His research interests include EMS, EKG, STEMI, cybersecurity, natural language processing, data visualization, and applications of machine learning.
