@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include EMS, EKG, STEMI, cybersecurity, and NLP.
+bio: My research interests include EMS, EKG, STEMI, cybersecurity, data viz, ML, and NLP.
 education:
   courses:
   - course: Emergency Medicine Residency
