@@ -18,17 +18,27 @@
   </url>
   
   <url>
-    <loc>/post/diy-headset-instructions/</loc>
-    <lastmod>2019-11-10T16:49:08-05:00</lastmod>
+    <loc>/post/code-to-import-talks-to-hugo-academic/</loc>
+    <lastmod>2019-11-11T15:00:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-this-site-was-made/</loc>
+    <lastmod>2019-11-11T11:22:47-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-10T16:49:08-05:00</lastmod>
+    <lastmod>2019-11-11T15:00:04-05:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-11-11T15:00:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/diy-headset-instructions/</loc>
     <lastmod>2019-11-10T16:49:08-05:00</lastmod>
   </url>
   
@@ -869,6 +879,16 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/2019-11-11-code-to-import-talks-to-hugo-academic/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2019-11-11-how-this-site-was-made/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -5,7 +5,7 @@
     <link>/categories/uncategorized/</link>
       <atom:link href="/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <description>Uncategorized</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2019</copyright><lastBuildDate>Sat, 22 Sep 2018 01:10:53 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Mat Goebel 2020</copyright><lastBuildDate>Sat, 22 Sep 2018 01:10:53 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Uncategorized</title>
@@ -73,8 +73,6 @@
       <guid>/p367/</guid>
       <description>&lt;p&gt;I&amp;#8217;ve been lucky enough to get involved with the EM:RAP crew, helping with their monthly live broadcasts. At the last show, they had a segment on DeWinter T-waves where Stuart Swadron was using an article I wrote as part of his presentation! I ended getting interviewed and answering some EKG questions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-396&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap.png&#34; alt=&#34;emrap&#34; width=&#34;847&#34; height=&#34;434&#34; srcset=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap.png 847w, http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap-300x154.png 300w, http://wp.docker.localhost:8000/wp-content/uploads/2018/01/emrap-768x394.png 768w&#34; sizes=&#34;(max-width: 847px) 100vw, 847px&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Check out the segment &lt;a href=&#34;https://www.emrap.org/episode/emrapliveaugust/dewinterstwave&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, the &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24176590&#34; target=&#34;_blank&#34;&gt;publication here&lt;/a&gt;, and the &lt;a href=&#34;https://lifeinthefastlane.com/winter-is-coming/&#34; target=&#34;_blank&#34;&gt;FOAM content&lt;/a&gt; at &lt;a href=&#34;https://lifeinthefastlane.com/ecg-library/de-winters-t-waves/&#34; target=&#34;_blank&#34;&gt;LITFL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -101,11 +99,7 @@
       <link>/p334/</link>
       <pubDate>Sat, 25 Jun 2011 04:21:51 +0000</pubDate>
       <guid>/p334/</guid>
-      <description>&lt;p style=&#34;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg&#34;&gt;&lt;img class=&#34;aligncenter size-medium wp-image-335&#34; title=&#34;infant manikin&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg?w=300&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;217&#34; srcset=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1.jpg 535w, http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr1-300x218.jpg 300w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A few years ago I became a CPR instructor for no real reason other than I wanted to. My very first CPR class had a half dozen students from the theatre department where I was doing my undergrad.&lt;/p&gt;
+      <description>&lt;p&gt;A few years ago I became a CPR instructor for no real reason other than I wanted to. My very first CPR class had a half dozen students from the theatre department where I was doing my undergrad.&lt;/p&gt;
 
 &lt;p&gt;Fast forward a few years.&lt;/p&gt;
 
@@ -270,23 +264,11 @@
 
 &lt;p&gt;Here is the proof. Keep in mind that we&amp;#8217;re essentially converting units&lt;/p&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a class=&#34;vt-p&#34; style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{gtt}{min}%3D\frac{gtt}{min}*\frac{1ml}{60gtt}*\frac{60min}{1hour}%3D\frac{ml}{hour}&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{gtt}{min}%3D\frac{gtt}{min}*\frac{1ml}{60gtt}*\frac{60min}{1hour}%3D\frac{ml}{hour}&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;p&gt;Remember that 60 drips = 1 ml, and 60 minutes = 1 hour, so we&amp;#8217;re only multiply by different versions of one to maintain equality. Drips and minutes cancel, leaving mLs and hours.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;#8217;re using a 15-drip set, just take your mL per hour rate and divide by 4. Because&amp;#8230;&lt;/p&gt;
 
-&lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;a class=&#34;vt-p&#34; style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{1}{4}*\frac{gtt}{min}%3D\frac{1}{4}*\frac{gtt}{min}*\frac{1ml}{15gtt}*\frac{60min}{1hour}%3D\frac{ml}{hour}&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{1}{4}*\frac{gtt}{min}%3D\frac{1}{4}*\frac{gtt}{min}*\frac{1ml}{15gtt}*\frac{60min}{1hour}%3D\frac{ml}{hour}&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;p&gt;For a 10-drip set you can try dividing by 6, but chances are that won&amp;#8217;t be easily done in your head.&lt;/p&gt;
-
-&lt;div class=&#34;blogger-post-footer&#34;&gt;
-  &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -357,11 +339,7 @@
       <link>/p128/</link>
       <pubDate>Sat, 29 May 2010 18:39:00 +0000</pubDate>
       <guid>/p128/</guid>
-      <description>&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/photo.jpg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/photo.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This weekend I&amp;#8217;m visiting southern California. My first stop after landing was a bonfire on the beach. While getting the fire going and cooking some hot dogs, I noticed a regular pattern of Lifeguard vehicles driving back and forth. Meh.&lt;/p&gt;
+      <description>&lt;p&gt;This weekend I&amp;#8217;m visiting southern California. My first stop after landing was a bonfire on the beach. While getting the fire going and cooking some hot dogs, I noticed a regular pattern of Lifeguard vehicles driving back and forth. Meh.&lt;/p&gt;
 
 &lt;p&gt;A while later I notice a change. One of these all-wheel-drive eco-friendly SUV&amp;#8217;s is clipping across the beach on a different path at a much faster pace. Maybe something is up&amp;#8230; but he&amp;#8217;s not running code 3, so maybe he&amp;#8217;s just in a hurry to get somewhere. A few minutes later another unit comes screaming down the beach, this time lights and sirens blaring. I know each vehicle has only one guard in it, and I&amp;#8217;m presuming that they don&amp;#8217;t have much additional medical training. I mosey over a couple hundred feet to the incident to poke my head in to see if the situation warrants offering assistance. Their patient is seated in the sand, sitting up on his own, answering questions. One guard is taking a blood pressure, the other asking questions. I have already made my &amp;#8220;from the door&amp;#8221; assessment of not sick/not hurt.&lt;/p&gt;
 
@@ -408,10 +386,6 @@
 
 &lt;p&gt;Convert 170 pounds to kg.&lt;/p&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;clear:left;float:left;margin-bottom:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{170}{2}%3D85&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{170}{2}%3D85&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;p&gt;10% of 85 = 8.5 (move the decimal one digit left)&lt;/p&gt;
 
 &lt;p&gt;85 &amp;#8211; 8.5 = 76.5&lt;/p&gt;
@@ -419,10 +393,6 @@
 &lt;p&gt;Round to 76 or 77.&lt;/p&gt;
 
 &lt;p&gt;Let&amp;#8217;s compare that to the actual conversion factor.&lt;/p&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;clear:left;float:left;margin-bottom:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{170}{2.2}%20%3D%2077.27&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{170}{2.2}%20%3D%2077.27&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
 
 &lt;p&gt;You can see that taking into account that 10% makes a huge difference in the accuracy of the conversion.&lt;/p&gt;
 
@@ -436,24 +406,12 @@
 
 &lt;p&gt;This comes down to reducing fractions. Here is the down and dirty:&lt;/p&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{pounds}{2.2}%3D\frac{pounds}{1.1*2}%3D\frac{pounds}{2}*\frac{1}{1.1}\approx\frac{pounds}{2}*0.9&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=\frac{pounds}{2.2}%3D\frac{pounds}{1.1*2}%3D\frac{pounds}{2}*\frac{1}{1.1}\approx\frac{pounds}{2}*0.9&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;31&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:left;&#34;&gt;
   Multiplying by .9 is the same and subtracting .1 from the original &amp;#8211; what we&amp;#8217;re actually doing because .1 is much easier to computer mentally. Here is the proof for that:
 &lt;/div&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=(.9)*x%3D(1-0.1)*x%3Dx-(0.1)*x&#34;&gt;&lt;img src=&#34;http://www.sitmo.com/gg/latex/latex2png.2.php?z=100&amp;eq=(.9)*x%3D(1-0.1)*x%3Dx-(0.1)*x&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:left;&#34;&gt;
   I hope this helps you get more accurate drug doses quickly. I also hope you&amp;#8217;re not more confused than when you got here. Any questions? Leave a comment or drop me a line.
-&lt;/div&gt;
-
-&lt;div class=&#34;blogger-post-footer&#34;&gt;
-  &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -529,10 +487,6 @@
 
 &lt;p&gt;Lecturer: Yes, very good. Let&amp;#8217;s define that word for anyone who doesn&amp;#8217;t know it. For starters, it has nothing to do with the genitals. (collective giggle) This is your heart. Here I&amp;#8217;ll make the left ventricle bigger so it&amp;#8217;s anatomically correct. And here are the pacemakers.&lt;/p&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/thumpy.jpg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/thumpy.jpg?w=300&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;300&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;p&gt;Face palm. I used to wonder why people make fun of us for being &amp;#8220;just BLS.&amp;#8221;&lt;/p&gt;
 
 &lt;p&gt;I guess that answers that.&lt;/p&gt;
@@ -548,11 +502,7 @@
       <link>/p110/</link>
       <pubDate>Sun, 24 Jan 2010 23:28:00 +0000</pubDate>
       <guid>/p110/</guid>
-      <description>&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr.gif&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/cpr.gif?w=300&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;246&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;text-align:left;&#34;&gt;
+      <description>&lt;div style=&#34;text-align:left;&#34;&gt;
   In my feeble attempts to make myself more valuable, I went ahead and got an AHA Instructor certification. Yes, I am a CPR instructor but have never had a chance to do CPR on a real patient. Still, I know all the protocols and procedures, ratio, etc., forward, backward, inside and out. My EMS Coordinator asked me to help with skills testing for CPR recertification this year.
 &lt;/div&gt;
 
@@ -663,10 +613,6 @@
 &lt;p&gt;The most important aspect of a nap is the duration. Secondarily, there are a some adjuncts you can use to increase the quality of your sleep.&lt;/p&gt;
 
 &lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep_cycle.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep_cycle.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
   &lt;a href=&#34;http://www.sleep-problems.com/sleep_architecture/stages_of_sleep/&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-size:small;&#34;&gt;Photo credit&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -685,10 +631,6 @@
 &lt;p&gt;Sometimes we can use adjuncts to increase the quality of our nap and help us get to sleep faster.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A. Sleep Mask&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep-mask1.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sleep-mask1.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
 
 &lt;div style=&#34;text-align:center;&#34;&gt;
   &lt;a href=&#34;http://leisureguy.wordpress.com/2006/08/02/tips-for-better-sleep/&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-size:small;&#34;&gt;Photo Credit&lt;/span&gt;&lt;/a&gt;
@@ -722,14 +664,6 @@
   &lt;strong&gt;B. Ear Plugs&lt;/strong&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/mmm3404004_1_12.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/mmm3404004_1_12.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://a.%20sleep%20mask/&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-size:small;&#34;&gt;Photo Credit&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;div style=&#34;text-align:left;&#34;&gt;
   &lt;strong&gt;&lt;br /&gt; &lt;/strong&gt;
 &lt;/div&gt;
@@ -754,14 +688,6 @@
   &lt;strong&gt;C. Caffeine&lt;/strong&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://nerdymedic.files.wordpress.com/2010/01/070815_coke_vmed_11awidec2.jpeg&#34;&gt;&lt;img src=&#34;http://nerdymedic.files.wordpress.com/2010/01/070815_coke_vmed_11awidec2.jpeg?w=162&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://coolaggregator.wordpress.com/2008/06/&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-size:small;&#34;&gt;Photo Credit&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;div style=&#34;text-align:left;&#34;&gt;
   &lt;strong&gt;&lt;br /&gt; &lt;/strong&gt;
 &lt;/div&gt;
@@ -772,14 +698,6 @@
 
 &lt;div style=&#34;text-align:left;&#34;&gt;
   &lt;strong&gt;4 &amp;#8211; Conclusion / Summary&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/google_cat_nap2.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/google_cat_nap2.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://www.catsarepeople2.com/&#34;&gt;&lt;span class=&#34;Apple-style-span&#34; style=&#34;font-size:small;&#34;&gt;Photo Credit&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div style=&#34;text-align:left;&#34;&gt;
@@ -917,10 +835,7 @@
     &lt;a href=&#34;http://thinkanatomy.com/2009/12/anatomylab-app/&#34;&gt;Review and purchasing link&lt;/a&gt;.
   &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-    &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/5banatomy2blab52.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/5banatomy2blab52.jpeg?w=200&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;div class=&#34;blogger-post-footer&#34;&gt;
   &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
@@ -940,10 +855,6 @@
 &lt;p&gt;_Sidebar: _I&amp;#8217;m not the only one who enjoy this stuff. After I shared it with my friend &lt;a href=&#34;http://medicdani.blogspot.com/2009/12/if-you-have-time-to-burn.html&#34; target=&#34;_blank&#34;&gt;Dani, she posted it on her blog&lt;/a&gt;. And she&amp;#8217;s cool. So neener-neener.&lt;/p&gt;
 
 &lt;p&gt;I found &lt;a href=&#34;http://www.behance.net/Gallery/anatomy-sketchbook/239697&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; series &lt;a href=&#34;http://streetanatomy.com/2009/07/16/anatomy-sketchbook-done-right/&#34; target=&#34;_blank&#34;&gt;featured on the blog&lt;/a&gt; particularly gorgeous. It fuses two of my favourite things: anatomy and technical drawing/sketching.&lt;/p&gt;
-
-&lt;div class=&#34;separator&#34; style=&#34;clear:both;text-align:center;&#34;&gt;
-  &lt;a style=&#34;margin-left:1em;margin-right:1em;&#34; href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/10547512442326322.jpeg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/10547512442326322.jpeg?w=232&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
 
 &lt;div class=&#34;blogger-post-footer&#34;&gt;
   &lt;img alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;
@@ -1104,9 +1015,7 @@
       <link>/p84/</link>
       <pubDate>Sat, 19 Dec 2009 03:37:00 +0000</pubDate>
       <guid>/p84/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/204725_7kcqu1kqbn3qqu4v2bkfsl8q_.jpeg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/204725_7kcqu1kqbn3qqu4v2bkfsl8q_.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div style=&#34;text-align:left;&#34;&gt;
+      <description>&lt;div style=&#34;text-align:left;&#34;&gt;
   &lt;span class=&#34;Apple-style-span&#34; style=&#34;color:#0000ee;&#34;&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;br /&gt; &lt;/span&gt;&lt;/span&gt;
 &lt;/div&gt;
 
@@ -1161,11 +1070,7 @@
       <link>/p82/</link>
       <pubDate>Sun, 01 Nov 2009 07:09:00 +0000</pubDate>
       <guid>/p82/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/magritte-not-a-pipe.jpeg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/magritte-not-a-pipe.jpeg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div style=&#34;text-align:center;&#34;&gt;
+      <description>&lt;div style=&#34;text-align:center;&#34;&gt;
   &lt;div style=&#34;text-align:left;&#34;&gt;
     &lt;span style=&#34;color:#551a8b;&#34;&gt;&lt;br /&gt; &lt;/span&gt;
   &lt;/div&gt;
@@ -1677,9 +1582,7 @@
       <link>/p50/</link>
       <pubDate>Mon, 22 Jun 2009 03:52:00 +0000</pubDate>
       <guid>/p50/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/image55.gif&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/image55.gif?w=130&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;People often look at &amp;#8220;kids today&amp;#8221; and worry about what the world is coming to.&lt;/p&gt;
+      <description>&lt;p&gt;People often look at &amp;#8220;kids today&amp;#8221; and worry about what the world is coming to.&lt;/p&gt;
 
 &lt;p&gt;You probably don&amp;#8217;t know it, but the image above is an illustration of a statue in Gilwell park, England that depicts &amp;#8220;the ideal Boy Scout.&amp;#8221; It was the basis for the apperance of young Indian Jones.&lt;/p&gt;
 
@@ -1708,13 +1611,11 @@
   &lt;span style=&#34;font-weight:bold;&#34;&gt;warning&lt;/span&gt;: mixed theatre/film and EMS content ahead
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00005.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00005.jpg?w=225&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On Monday I went to the &amp;#8220;&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;ct=res&amp;amp;cd=2&amp;amp;url=http%3A%2F%2Flevelzeromovie.com%2F2009%2F04%2F10%2Flevel-zero-movie-trailer%2F&amp;amp;ei=NAQXSszPFY6UswOYme3ZCA&amp;amp;usg=AFQjCNHeDBuahQHWLFk1kJElDMA2JKtoAw&#34; target=&#34;_blank&#34;&gt;Level Zero&lt;/a&gt;&amp;#8221; premiere. From the trailer, it appears to be a fast paced, for-EMS-by-EMS documentary of work in Alameda County. That wasn&amp;#8217;t quite the case.&lt;/p&gt;
+&lt;p&gt;On Monday I went to the &amp;#8220;[Level Zero][2]&amp;#8221; premiere. From the trailer, it appears to be a fast paced, for-EMS-by-EMS documentary of work in Alameda County. That wasn&amp;#8217;t quite the case.&lt;/p&gt;
 
 &lt;p&gt;The film is actually a 20 minute short only loosely associated with doc form. We loosely follow a couple EMTs and Medics through a fictitious busy day. The film consists of interviewing featured EMS providers about why they love EMS, how they got into it, etc., interspersed with some fictional depictions of real EMS work.&lt;/p&gt;
 
-&lt;p&gt;When thinking about a film, it&amp;#8217;s important to consider the intent or the purpose. This film was made as a kick-off for EMS week. The premiere party (another subject of itself) was a &lt;span style=&#34;font-style:italic;&#34;&gt;party&lt;/span&gt;. This film is designed for EMS personnel, by EMS personnel to re-affirm &lt;span style=&#34;font-style:italic;&#34;&gt;their&lt;/span&gt; faith in the profession and why they do what they do. Unfortunately, I don&amp;#8217;t think the film had a broad enough appeal to interest people outside the region. Half the thrill of the premiere was seeing people you know on a big screen. So was the film successful in achieving its objective? I think so. Is it what I wanted it to be? No. Can I fault it for that? No, because I had false expectations. What I want would be better achieved by TLC or the group that produced &lt;a href=&#34;http://abc.go.com/specials/hopkins/&#34; target=&#34;_blank&#34;&gt;Hopkins&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When thinking about a film, it&amp;#8217;s important to consider the intent or the purpose. This film was made as a kick-off for EMS week. The premiere party (another subject of itself) was a &lt;span style=&#34;font-style:italic;&#34;&gt;party&lt;/span&gt;. This film is designed for EMS personnel, by EMS personnel to re-affirm &lt;span style=&#34;font-style:italic;&#34;&gt;their&lt;/span&gt; faith in the profession and why they do what they do. Unfortunately, I don&amp;#8217;t think the film had a broad enough appeal to interest people outside the region. Half the thrill of the premiere was seeing people you know on a big screen. So was the film successful in achieving its objective? I think so. Is it what I wanted it to be? No. Can I fault it for that? No, because I had false expectations. What I want would be better achieved by TLC or the group that produced [Hopkins][3].&lt;/p&gt;
 
 &lt;p&gt;Now&amp;#8230; the premiere party itself was more than I would have expected. Like I said about the film, this entire premiere event was a celebration of EMS providers about what we do. It was a fine night by all accounts &amp;#8211; but methinks there was too much ETOH. Every ticket to the premiere included &lt;span style=&#34;font-style:italic;font-weight:bold;&#34;&gt;4&lt;/span&gt; drink tickets. The event opened doors at 1830, and the film didn&amp;#8217;t screen until 2130. Some people were genuinely plastered by the time the film rolled. This was especially apparent in the Q&amp;amp;A after. To me, it was just a bit embarrassing. I know we&amp;#8217;re all &amp;#8220;among friends&amp;#8221; and whatnot, but I still don&amp;#8217;t think it was appropriate behaviour. When people know you&amp;#8217;re an EMT/Paramedic/Firefighter, there is a certain image you need to uphold. If you&amp;#8217;re in a bar off duty, out of uniform, and no one is the wiser, do what you like. However, if you&amp;#8217;re in a large group of people that are all assumed to be First Responders, you have a responsibility to maintain that image of honour and pride.&lt;/p&gt;
 
@@ -1731,9 +1632,7 @@
       <link>/p43/</link>
       <pubDate>Thu, 21 May 2009 00:58:00 +0000</pubDate>
       <guid>/p43/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00007.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/img00007.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Last night it was unseasonably cold, so I was wearing my reflective EMS jacket because it&amp;#8217;s warm and cozy. I was sitting at Starbucks with a friend talking about &lt;span id=&#34;SPELLING_ERROR_0&#34; class=&#34;blsp-spelling-corrected&#34;&gt;health care&lt;/span&gt; reform &amp;#8211; which she&amp;#8217;s actually &lt;span id=&#34;SPELLING_ERROR_1&#34; class=&#34;blsp-spelling-corrected&#34;&gt;involved&lt;/span&gt; with in her job at the House in DC.&lt;/p&gt;
+      <description>&lt;p&gt;Last night it was unseasonably cold, so I was wearing my reflective EMS jacket because it&amp;#8217;s warm and cozy. I was sitting at Starbucks with a friend talking about &lt;span id=&#34;SPELLING_ERROR_0&#34; class=&#34;blsp-spelling-corrected&#34;&gt;health care&lt;/span&gt; reform &amp;#8211; which she&amp;#8217;s actually &lt;span id=&#34;SPELLING_ERROR_1&#34; class=&#34;blsp-spelling-corrected&#34;&gt;involved&lt;/span&gt; with in her job at the House in DC.&lt;/p&gt;
 
 &lt;p&gt;It was an &lt;span id=&#34;SPELLING_ERROR_3&#34; class=&#34;blsp-spelling-error&#34;&gt;MVA&lt;/span&gt; involving 4 cars and as many patients. It happened right in front of me. As soon as it happened, I ran into the intersection and started checking on the occupants of the vehicles. Only one car had its airbags deployed. Everyone denied injury.&lt;/p&gt;
 
@@ -1779,9 +1678,7 @@
       <link>/p39/</link>
       <pubDate>Thu, 07 May 2009 01:34:00 +0000</pubDate>
       <guid>/p39/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/lfhp.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/lfhp.jpg?w=150&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If this was in blue it would be my LifeFlight sweater. It&amp;#8217;s one of my most prised possessions.&lt;/p&gt;
+      <description>&lt;p&gt;If this was in blue it would be my LifeFlight sweater. It&amp;#8217;s one of my most prised possessions.&lt;/p&gt;
 
 &lt;p&gt;It was too hot to wear it today walking between my seminar and the train station. I was actually annoyed by this &amp;#8211; not because I had to carry my coat, but because I couldn&amp;#8217;t &lt;span style=&#34;font-style:italic;&#34;&gt;wear&lt;/span&gt; this one.&lt;/p&gt;
 
@@ -1852,11 +1749,7 @@
       <link>/p35/</link>
       <pubDate>Fri, 01 May 2009 03:26:00 +0000</pubDate>
       <guid>/p35/</guid>
-      <description>&lt;p style=&#34;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/bodies1.gif&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/bodies1.gif?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Today I went to &amp;#8220;Bodies &amp;#8211; The Exhibition&amp;#8221; in Las Vegas at the the Luxor. Most people sort of glanced at things and stayed an arms length away form the cadavers. They seemed to be I got as close as I possibly could (inches) from the cadavers and read every word of every exhibit. At one point, wtih my face inches from an opened thoracic cavity, I muttered &amp;#8220;these don&amp;#8217;t smell like cadavers&amp;#8221; under my breath and received strange glances from the other people in the hall.&lt;/p&gt;
+      <description>&lt;p&gt;Today I went to &amp;#8220;Bodies &amp;#8211; The Exhibition&amp;#8221; in Las Vegas at the the Luxor. Most people sort of glanced at things and stayed an arms length away form the cadavers. They seemed to be I got as close as I possibly could (inches) from the cadavers and read every word of every exhibit. At one point, wtih my face inches from an opened thoracic cavity, I muttered &amp;#8220;these don&amp;#8217;t smell like cadavers&amp;#8221; under my breath and received strange glances from the other people in the hall.&lt;/p&gt;
 
 &lt;p&gt;The human body is an amazingly complex and beautiful machine. So many things happen in so many places at so many levels. So many levels of complexity and function drill down perfectly in seamless functions like ballrom dance and playing musical instruments &amp;#8211; it&amp;#8217;s like the ideal ICS implimentation.&lt;/p&gt;
 
@@ -1883,27 +1776,17 @@
   &lt;span style=&#34;font-weight:bold;&#34;&gt;warning: theatre content&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sirens_tre00384_720x503.jpg&#34;&gt;&lt;img src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/sirens_tre00384_720x503.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
 &lt;p&gt;Although most people may see the &amp;#8220;Sirens of TI&amp;#8221; show at Treasure Island as &lt;span id=&#34;SPELLING_ERROR_0&#34; class=&#34;blsp-spelling-error&#34;&gt;contentless&lt;/span&gt; spectacle, there&amp;#8217;s much more to it.&lt;/p&gt;
 
 &lt;p&gt;The melodrama of the 20&lt;span id=&#34;SPELLING_ERROR_1&#34; class=&#34;blsp-spelling-error&#34;&gt;th&lt;/span&gt; century featured polarised morality and spectacle. &amp;#8220;Sirens,&amp;#8221; however, is 21st century melodrama. One of the biggest changes in drama for the last two decades is the confusion of morality. Melodrama used to be clear cut good v. bad. There was the white hat hero and the black mustache tie-you-to-the-train-tracks bad villain. Both were easily identifiable and there was nothing in between. Today&amp;#8217;s melodrama is an exploration of moral issues. What makes us good or bad? Is it what we do or why we do it? Think about this before you answer.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/jack-bauer.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://wp.docker.localhost:8000/wp-content/uploads/2011/06/jack-bauer.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We all agree that Jack Bauer is a hero. Consider his actions. A lot of people consider what he does &amp;#8220;wrong,&amp;#8221; but we stand up and cheer for his because of his reasons for doing it. He frequently will sacrifice his own moral character for the great good of the safety of the nation.&lt;/p&gt;
 
 &lt;p&gt;This stands in contrast to &amp;#8220;the grotesque&amp;#8221; movement of the romantic period. The romantic period started blending different elements of characters. The characters themselves were, however, still very distinct and readily identifiable. In the 21st century, we don&amp;#8217;t know who is who.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://nerdymedic.files.wordpress.com/2009/04/26vegascheap4.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://nerdymedic.files.wordpress.com/2009/04/26vegascheap4.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&amp;#8220;Sirens&amp;#8221; is no different. There are pirates and sirens. Criminals (particularly poignant given recent events) and mythical sex goddesses. Ironically, the Siren&amp;#8217;s ship is white &amp;#8211; normally symbolic of purity. The visual design of the pirate&amp;#8217;s vessel is clearly influenced by a Peter Pan &amp;#8220;lost boys&amp;#8221; style. The Sirens seduce the Pirates. Clearly in this performance the Pirates are the victims &amp;#8211; &amp;#8220;lost boys&amp;#8221; who are helpless to the seduction of women. This is also a sexual role reversal from what was portrayed just 20 years ago. Vampire literature (and other similarly sexual &lt;span id=&#34;SPELLING_ERROR_2&#34; class=&#34;blsp-spelling-corrected&#34;&gt;story lines&lt;/span&gt;) has always shown men as the &lt;span id=&#34;SPELLING_ERROR_3&#34; class=&#34;blsp-spelling-corrected&#34;&gt;aggressor&lt;/span&gt; &amp;#8211; but that&amp;#8217;s changed now.&lt;/p&gt;
 
 &lt;p&gt;Who is good? Who is evil? Why are we motivated to do thing? What is the true measure of our character? The Pirates, ironically are standing up their honour. The Sirens are seeking &lt;span id=&#34;SPELLING_ERROR_4&#34; class=&#34;blsp-spelling-corrected&#34;&gt;purely&lt;/span&gt; after carnal desire. In the end the Sirens win. What is the show teaching? Immediate gratification is good. Impulse control is bad. Welcome to Vegas. We&amp;#8217;re here to help you with that &amp;#8211; for a small fee.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://nerdymedic.files.wordpress.com/2009/04/sirens_of_ti_1.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://nerdymedic.files.wordpress.com/2009/04/sirens_of_ti_1.jpg?w=300&#34; alt=&#34;&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Some things, though, will never change. The melodrama of the 18&lt;span id=&#34;SPELLING_ERROR_5&#34; class=&#34;blsp-spelling-error&#34;&gt;th&lt;/span&gt; and 19&lt;span id=&#34;SPELLING_ERROR_6&#34; class=&#34;blsp-spelling-error&#34;&gt;th&lt;/span&gt; centuries featured spectacle. It was all about putting on a big show &amp;#8211; bigger, better, louder. Epic. The 19&lt;span id=&#34;SPELLING_ERROR_7&#34; class=&#34;blsp-spelling-error&#34;&gt;th&lt;/span&gt; century featured a sub-genre called &amp;#8220;firefighter melodrama&amp;#8221; that was popular because they got to burn things on stage. The same is true with &amp;#8220;Sirens.&amp;#8221; As they&amp;#8217;ve proven on &lt;span id=&#34;SPELLING_ERROR_8&#34; class=&#34;blsp-spelling-error&#34;&gt;Mythbusters&lt;/span&gt;, it&amp;#8217;s always better to end with a bang.&lt;/p&gt;
 
