@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city: Provo
+  city: South Salt Lake City
   country:
   postcode: 
   region: UT
@@ -9,17 +9,17 @@ address:
 all_day: true
 authors: []
 date: 2012-02-01
-event: Faculty In-service
+event: Department In-service
 event_url: 
 featured: false
-location: Utah Fire Rescue Academy
+location: South Salt Lake Fire Department
 math: true
-publishDate: 2019-11-10
+publishDate: 2020-09-19
 summary: 
 tags: []
 title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
 url_video: 
 ---

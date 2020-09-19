@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Washington
+  city: Orem
   country:
   postcode: 
-  region: DC
+  region: UT
   street: 
 all_day: true
 authors: []
-date: 2017-10-29
-event: American College of Emergency Physicians
+date: 2014-04-01
+event: Utah Valley University's 3rd Annual Emergency Services and Disaster Conference
 event_url: 
 featured: false
-location: Walter E. Washington Convention Center
+location: Utah Valley University
 math: true
-publishDate: 2019-11-10
+publishDate: 2020-09-19
 summary: 
 tags: []
-title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
+title: Prehospital Diagnosis of ST-segment elevated myocardial infarction
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWkdPVXpYSDQzWG8
 url_video: 
 ---

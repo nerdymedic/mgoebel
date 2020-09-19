@@ -27,8 +27,7 @@ url_code: ", talks$url_code,"
 url_pdf: ", talks$url_pdf,"
 url_slides: ", talks$url_slides,"
 url_video: ", talks$url_video,"
----"
-)
+---")
 
 talks_formatted <- str_replace_all(talks_formatted, "NA", "")
 
@@ -46,8 +45,8 @@ filenames <- paste0("content/talk/event",
                     "/index.md")
 
 #comment out to overwrite all events
-foldernames <- foldernames[map_lgl(foldernames, dir.exists) == FALSE]
-filenames <- filenames[map_lgl(filenames, file.exists) == FALSE]
+#foldernames <- foldernames[map_lgl(foldernames, dir.exists) == FALSE]
+#filenames <- filenames[map_lgl(filenames, file.exists) == FALSE]
 
-map2(talks_formatted, filenames, ~write_md(.x, .y))
 map(foldernames, dir.create)
+map2(talks_formatted, filenames, ~write_md(.x, .y))

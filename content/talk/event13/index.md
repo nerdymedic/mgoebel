@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Orem
+  city: Marina Del Rey
   country:
   postcode: 
-  region: UT
+  region: CA
   street: 
 all_day: true
 authors: []
-date: 2014-04-01
-event: Utah Valley University's 3rd Annual Emergency Services and Disaster Conference
+date: 2018-09-07
+event: California  ACEP
 event_url: 
 featured: false
-location: Utah Valley University
+location: Marina del  Rey Marriott
 math: true
-publishDate: 2019-11-10
+publishDate: 2020-09-19
 summary: 
 tags: []
-title: Prehospital Diagnosis of ST-segment elevated myocardial infarction
+title: Surviving Suicide - coping with the silent epidemic
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWkdPVXpYSDQzWG8
+url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
 url_video: 
 ---

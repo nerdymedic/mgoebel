@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2013-12-01
-event: Department In-service
+date: 2013-04-01
+event: STEMI Committee Meeting
 event_url: 
 featured: false
-location: Unified Fire Authority
+location: Intermountain Medical Center
 math: true
-publishDate: 2019-11-10
+publishDate: 2020-09-19
 summary: 
 tags: []
-title: Code STEMI Train the Trainer
+title: Best Practices for STEMI care at Intermountain Medical Center
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
+url_slides: 
 url_video: 
 ---
