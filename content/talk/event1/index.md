@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: West  Springfield
   country:
   postcode: 
   region: MA
@@ -12,9 +12,9 @@ date: 2020-08-31
 event: Controversies and Consensus in Emergency Medicine
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Marriott West Springfield
 math: true
-publishDate: 2020-09-19
+publishDate: 2020-09-20
 summary: 
 tags: []
 title: NSTEMIs that need the cath lab now!

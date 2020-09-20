@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Intermountain Medical Center
 math: true
-publishDate: 2020-09-19
+publishDate: 2020-09-20
 summary: 
 tags: []
 title: EKG Pearls and Pitfalls in the ED
