@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: West  Springfield
+  city: Virtual Event
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2020-08-31
-event: Controversies and Consensus in Emergency Medicine
+date: 2021-04-07
+event: SAEM NERDS
 event_url: 
 featured: false
-location: Marriott West Springfield
+location: Virtual Event
 math: true
-publishDate: 2020-09-20
+publishDate: 2021-04-20
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now!
+title: A coordinated social media strategy to aid The Match
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
-url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
+url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
+url_video: https://youtu.be/N7_H2AEEduU
 ---

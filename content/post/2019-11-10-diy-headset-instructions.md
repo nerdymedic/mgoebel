@@ -16,8 +16,8 @@ image:
   preview_only: no
 projects: []
 ---
-If you're looking for the DIY clearcom headset instructions, they're on  my old website:
+If you're looking for the DIY clearcom headset instructions, they now live here:
 
-[DIY Lightweight Clearcom Headset](https://sites.google.com/a/matgoebel.com/matgoebel/projects/headset)
+[DIY Lightweight Clearcom Headset](https://docs.google.com/open?id=1KwPN0BrBHEUUFmx6TZ3PhfB01-MbJBbEsH7sy8vvOgs)
 
-[DIY Headset Appendix: Plantronics m130](https://sites.google.com/a/matgoebel.com/matgoebel/projects/diy-headset-appendix-plantronics-m130)
+[DIY Headset Appendix: Plantronics m130](https://docs.google.com/open?id=1nfOyvw2PPb4hBaSinEkcj3gjB4QNjL63sIwzO-iGTEw)

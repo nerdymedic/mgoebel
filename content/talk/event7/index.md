@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Sandy City Fire Department
+  city: Murray
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2013-01-01
-event: Department In-service
+date: 2012-04-01
+event: Emergency Nurse’s Association Salt Lake City Chapter
 event_url: 
 featured: false
-location: Sandy City Fire Department
+location: Intermountain Medical Center
 math: true
-publishDate: 2020-09-20
+publishDate: 2021-04-20
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: EKG Pearls and Pitfalls in the ED
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
+url_slides: https://drive.google.com/open?id=1YZJ51O6Z9G57JF_mGXWlwQagw-4hq3Uw
 url_video: 
 ---

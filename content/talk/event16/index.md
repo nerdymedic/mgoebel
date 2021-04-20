@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Chicago
+  city: Washington
   country:
   postcode: 
-  region: IL
+  region: DC
   street: 
 all_day: true
 authors: []
-date: 2015-06-25
-event: Social Media and Critical Care
+date: 2017-10-29
+event: American College of Emergency Physicians
 event_url: 
 featured: false
-location: McCormick Place
+location: Walter E. Washington Convention Center
 math: true
-publishDate: 2020-09-20
+publishDate: 2021-04-20
 summary: 
 tags: []
-title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction
+title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJZ1g4c1VCenNMM2c
+url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
 url_video: 
 ---
