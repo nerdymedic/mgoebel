@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: South Salt Lake City
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2012-04-01
-event: STEMI Committee Meeting
+date: 2012-02-01
+event: Department In-service
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: South Salt Lake Fire Department
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: What’s new in Pre-hospital STEMI
+title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJYnhQQm1kVTRrTm8
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
 url_video: 
 ---

@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-04-07
-event: SAEM NERDS
+date: 2021-10-13
+event: Western New England Acute Cardiology Conference
 event_url: 
 featured: false
 location: Virtual Event
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: A coordinated social media strategy to aid The Match
+title: Cardiac Arrest - ED Perspective
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
-url_video: https://youtu.be/N7_H2AEEduU
+url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
+url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
 ---

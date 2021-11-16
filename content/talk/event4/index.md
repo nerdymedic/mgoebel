@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: South Salt Lake City
+  city: West  Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2012-02-01
-event: Department In-service
+date: 2020-08-31
+event: Controversies and Consensus in Emergency Medicine
 event_url: 
 featured: false
-location: South Salt Lake Fire Department
+location: Marriott West Springfield
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: NSTEMIs that need the cath lab now!
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJQlVVVUdxdGgzSHM
-url_video: 
+url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
+url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
 ---

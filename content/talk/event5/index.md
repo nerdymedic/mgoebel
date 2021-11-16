@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Provo
+  city: Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2012-02-01
-event: Faculty In-service
+date: 2019-08-28
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Utah Fire Rescue Academy
+location: Baystate Medical Center
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: NSTEMIs that need the cath lab now, Part 1
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
+url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
 url_video: 
 ---

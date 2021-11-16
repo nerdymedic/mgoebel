@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Provo
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2012-04-01
-event: Emergency Nurse’s Association Salt Lake City Chapter
+date: 2012-02-01
+event: Faculty In-service
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Utah Fire Rescue Academy
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: EKG Pearls and Pitfalls in the ED
+title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=1YZJ51O6Z9G57JF_mGXWlwQagw-4hq3Uw
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
 url_video: 
 ---

@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Washington
+  city: Marina Del Rey
   country:
   postcode: 
-  region: DC
+  region: CA
   street: 
 all_day: true
 authors: []
-date: 2017-10-29
-event: American College of Emergency Physicians
+date: 2018-09-07
+event: California  ACEP
 event_url: 
 featured: false
-location: Walter E. Washington Convention Center
+location: Marina del  Rey Marriott
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
+title: Surviving Suicide - coping with the silent epidemic
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
+url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
 url_video: 
 ---

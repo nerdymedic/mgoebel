@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Orem
+  city: Murray
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2014-04-01
-event: Utah Valley University's 3rd Annual Emergency Services and Disaster Conference
+date: 2016-04-01
+event: Intermountain Healthcare EMS Conference
 event_url: 
 featured: false
-location: Utah Valley University
+location: Intermountain Medical Center
 math: true
-publishDate: 2021-04-20
+publishDate: 2021-11-15
 summary: 
 tags: []
-title: Prehospital Diagnosis of ST-segment elevated myocardial infarction
+title: 2015 Pre-hospital Research Update
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWkdPVXpYSDQzWG8
-url_video: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJRlNpakVmZ01Ld2c
+url_video: https://www.youtube.com/watch?v=OPfIDD5eWa8
 ---
