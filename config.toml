@@ -5,13 +5,13 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Mat Goebel MD MAS NR-P"
+title = "Mat Goebel MD MAS NRP"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://www.matgoebel.com/"
 
-googleAnalytics = "UA-10045954-4"
+googleAnalytics = "333663262"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
