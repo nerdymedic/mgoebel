@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Virtual Event
   country:
   postcode: 
-  region: UT
+  region: 
   street: 
 all_day: true
 authors: []
-date: 2012-04-01
-event: STEMI Committee Meeting
+date: 2021-02-23
+event: ACEP Virtual Grand Rounds
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Virtual Event
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: What’s new in Pre-hospital STEMI
+title: When All Else Fails, The Peri-mortem Cesarean Section
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJYnhQQm1kVTRrTm8
-url_video: 
+url_slides: 
+url_video: https://ecme.acep.org/diweb/catalog/item?id=6479179
 ---

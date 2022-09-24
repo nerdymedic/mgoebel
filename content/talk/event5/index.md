@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2019-08-28
-event: Emergency Medicine Grand Rounds
+date: 2021-10-13
+event: Western New England Acute Cardiology Conference
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Virtual Event
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now, Part 1
+title: Cardiac Arrest - ED Perspective
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
-url_video: 
+url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
+url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
 ---

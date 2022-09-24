@@ -1,23 +1,23 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Virtual Event
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-10-06
-event: Emergency Medicine Grand Rounds
+date: 2022-09-13
+event: 51st Annual Samuel D. Plotkin Cardiovascular Symposium
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Virtual Event
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: EKG Tape Review
+title: ECPR / ECLS
 url_code: 
 url_pdf: 
 url_slides: 

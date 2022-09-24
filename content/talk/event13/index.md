@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Provo
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2015-05-01
-event: Intermountain Healthcare EMS Conference
+date: 2012-02-01
+event: Faculty In-service
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Utah Fire Rescue Academy
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: Killer EKGs (other than STEMI)
+title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJeElzYVd1X0hxT1k
-url_video: https://www.youtube.com/watch?v=pbWcjapgpOA
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
+url_video: 
 ---

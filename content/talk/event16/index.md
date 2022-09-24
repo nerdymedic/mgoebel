@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Marina Del Rey
+  city: Sandy City Fire Department
   country:
   postcode: 
-  region: CA
+  region: UT
   street: 
 all_day: true
 authors: []
-date: 2018-09-07
-event: California  ACEP
+date: 2013-01-01
+event: Department In-service
 event_url: 
 featured: false
-location: Marina del  Rey Marriott
+location: Sandy City Fire Department
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: Surviving Suicide - coping with the silent epidemic
+title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
 url_video: 
 ---

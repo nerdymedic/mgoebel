@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2021-10-13
-event: Western New England Acute Cardiology Conference
+date: 2022-08-17
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: Cardiac Arrest - ED Perspective
+title: Pacemaker and ICD Review
 url_code: 
 url_pdf: 
-url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
-url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
+url_slides: 
+url_video: 
 ---

@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Provo
+  city: Virtual Event
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2012-02-01
-event: Faculty In-service
+date: 2021-04-07
+event: SAEM NERDS
 event_url: 
 featured: false
-location: Utah Fire Rescue Academy
+location: Virtual Event
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: A coordinated social media strategy to aid The Match
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
-url_video: 
+url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
+url_video: https://youtu.be/N7_H2AEEduU
 ---

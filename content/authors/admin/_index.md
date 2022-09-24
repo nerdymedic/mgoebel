@@ -6,7 +6,7 @@ education:
   courses:
   - course: Emergency Medicine Research Fellowship
     institution: UMass-Chan, Baystate
-    year: 2022
+    year: 2023
   - course: Emergency Medicine Residency
     institution: UMass-Chan, Baystate
     year: 2022

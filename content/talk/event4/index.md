@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: West  Springfield
+  city: Virtual Event
   country:
   postcode: 
-  region: MA
+  region: MO
   street: 
 all_day: true
 authors: []
-date: 2020-08-31
-event: Controversies and Consensus in Emergency Medicine
+date: 2021-10-20
+event: Washington University School of Medicine Steven R. Hall Trauma Symposium
 event_url: 
 featured: false
-location: Marriott West Springfield
+location: Virtual Event
 math: true
-publishDate: 2021-11-15
+publishDate: 2022-09-24
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now!
+title: When All Else Fails: Perimortem C-Section
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
-url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
+url_slides: 
+url_video: 
 ---
