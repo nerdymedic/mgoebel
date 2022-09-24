@@ -28,7 +28,7 @@ name: Mat Goebel
 organizations:
 - name: University of Massachusetts Medical School - Baystate
   url: ""
-role: Resident Physician
+role: Attending Physician
 social:
 - icon: paper-plane
   icon_pack: fa
