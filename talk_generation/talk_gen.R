@@ -45,8 +45,8 @@ filenames <- paste0("content/talk/event",
                     "/index.md")
 
 #comment out to overwrite all events
-#foldernames <- foldernames[map_lgl(foldernames, dir.exists) == FALSE]
-#filenames <- filenames[map_lgl(filenames, file.exists) == FALSE]
+# foldernames <- foldernames[map_lgl(foldernames, dir.exists) == FALSE]
+# filenames <- filenames[map_lgl(filenames, file.exists) == FALSE]
 
 map(foldernames, dir.create)
 map2(talks_formatted, filenames, ~write_md(.x, .y))

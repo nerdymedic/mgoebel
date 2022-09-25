@@ -17,7 +17,7 @@ math: true
 publishDate: 2022-09-24
 summary: 
 tags: []
-title: When All Else Fails, The Peri-mortem Cesarean Section
+title: When All Else Fails - Peri-mortem C-Section
 url_code: 
 url_pdf: 
 url_slides: 

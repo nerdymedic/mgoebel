@@ -17,7 +17,7 @@ math: true
 publishDate: 2022-09-24
 summary: 
 tags: []
-title: EKG Case Review: Toxicology
+title: EKG Tape Review - Toxicology
 url_code: 
 url_pdf: 
 url_slides: 
