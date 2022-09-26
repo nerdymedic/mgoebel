@@ -5,10 +5,10 @@ bio: My research interests include EMS, EKG, STEMI, cybersecurity, data viz, ML,
 education:
   courses:
   - course: Emergency Medicine Research Fellowship
-    institution: UMass-Chan, Baystate
+    institution: UMass Chan - Baystate
     year: 2023
   - course: Emergency Medicine Residency
-    institution: UMass-Chan, Baystate
+    institution: UMass Chan - Baystate
     year: 2022
   - course: Doctor of Medicine
     institution: UC San Diego School of Medicine
