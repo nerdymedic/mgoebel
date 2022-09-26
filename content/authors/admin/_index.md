@@ -26,9 +26,9 @@ email: ""
 interests:
 name: Mat Goebel
 organizations:
-- name: University of Massachusetts Medical School - Baystate
+- name: University of Massachusetts Chan Medical School - Baystate
   url: ""
-role: Attending Physician
+role: Research Fellow
 social:
 - icon: paper-plane
   icon_pack: fa
