@@ -1,23 +1,23 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2022-09-13
-event: 51st Annual Samuel D. Plotkin Cardiovascular Symposium
+date: 2022-08-17
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: ECPR / ECLS
+title: Pacemaker and ICD Review
 url_code: 
 url_pdf: 
 url_slides: 

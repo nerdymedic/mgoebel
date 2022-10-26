@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2015-05-01
-event: Intermountain Healthcare EMS Conference
+date: 2013-12-01
+event: Department In-service
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Unified Fire Authority
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: Killer EKGs (other than STEMI)
+title: Code STEMI Train the Trainer
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJeElzYVd1X0hxT1k
-url_video: https://www.youtube.com/watch?v=pbWcjapgpOA
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
+url_video: 
 ---

@@ -14,12 +14,12 @@ event_url:
 featured: false
 location: Intermountain Medical Center
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: 2015 Pre-hospital Research Update
+title: NSTEMIs that need the cath lab now
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJRlNpakVmZ01Ld2c
-url_video: https://www.youtube.com/watch?v=OPfIDD5eWa8
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJOS1zNGx0ODV3UW8
+url_video: https://www.youtube.com/watch?v=2jv00CvY-0Y
 ---

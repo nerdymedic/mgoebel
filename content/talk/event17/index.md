@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Sandy City Fire Department
   country:
   postcode: 
   region: UT
   street: 
 all_day: true
 authors: []
-date: 2013-04-01
-event: STEMI Committee Meeting
+date: 2013-01-01
+event: Department In-service
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Sandy City Fire Department
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: Best Practices for STEMI care at Intermountain Medical Center
+title: STEMI Pearls and Pitfalls
 url_code: 
 url_pdf: 
-url_slides: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
 url_video: 
 ---

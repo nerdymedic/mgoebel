@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2022-08-17
-event: Emergency Medicine Grand Rounds
+date: 2022-10-26
+event: Western New England Acute Cardiology Conference
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Basketball Hall of Fame
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: Pacemaker and ICD Review
+title: Out of Hospital Cardiac Arrest - ED perspective
 url_code: 
 url_pdf: 
-url_slides: 
+url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
 url_video: 
 ---

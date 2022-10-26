@@ -1,23 +1,23 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
-  region: MO
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-10-20
-event: Washington University School of Medicine Steven R. Hall Trauma Symposium
+date: 2022-02-09
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2022-09-24
+publishDate: 2022-10-26
 summary: 
 tags: []
-title: When All Else Fails - Perimortem C-Section
+title: EKG Tape Review - Toxicology
 url_code: 
 url_pdf: 
 url_slides: 
