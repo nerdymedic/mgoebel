@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: West  Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2019-08-28
-event: Emergency Medicine Grand Rounds
+date: 2020-08-31
+event: Controversies and Consensus in Emergency Medicine
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Marriott West Springfield
 math: true
-publishDate: 2022-10-26
+publishDate: 2023-07-18
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now, Part 1
+title: NSTEMIs that need the cath lab now!
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
-url_video: 
+url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
+url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
 ---

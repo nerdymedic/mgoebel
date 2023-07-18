@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2021-10-06
-event: Emergency Medicine Grand Rounds
+date: 2021-10-13
+event: Western New England Acute Cardiology Conference
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Virtual Event
 math: true
-publishDate: 2022-10-26
+publishDate: 2023-07-18
 summary: 
 tags: []
-title: EKG Tape Review - Ischemia
+title: Cardiac Arrest - ED Perspective
 url_code: 
 url_pdf: 
-url_slides: 
-url_video: 
+url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
+url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
 ---

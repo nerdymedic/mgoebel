@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Tampa
   country:
   postcode: 
-  region: MA
+  region: FL
   street: 
 all_day: true
 authors: []
-date: 2022-10-26
-event: Western New England Acute Cardiology Conference
+date: 2023-01-26
+event: National Association of EMS Physicians
 event_url: 
 featured: false
-location: Basketball Hall of Fame
+location: JW Marriott Tampe Water Street
 math: true
-publishDate: 2022-10-26
+publishDate: 2023-07-18
 summary: 
 tags: []
-title: Out of Hospital Cardiac Arrest - ED perspective
+title: Intraosseous Access Site Does Not Change Rates of Return Of Spontaneous Circulation in Pre-hospital Cardiac Arrest
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
+url_slides: https://docs.google.com/presentation/d/1DzGKMUMgmxuRuX6_HDVU0fRijd0WF1Rj?rtpof=true&usp=drive_fs
 url_video: 
 ---

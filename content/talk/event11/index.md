@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: West  Springfield
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2020-08-31
-event: Controversies and Consensus in Emergency Medicine
+date: 2021-02-10
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Marriott West Springfield
+location: Baystate Medical Center
 math: true
-publishDate: 2022-10-26
+publishDate: 2023-07-18
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now!
+title: LVADs in the ED
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
-url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
+url_slides: 
+url_video: 
 ---

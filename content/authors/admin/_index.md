@@ -4,6 +4,9 @@ authors:
 bio: My research interests include EMS, EKG, STEMI, cybersecurity, data viz, ML, and NLP.
 education:
   courses:
+  - course: Emergency Medical Services Fellowship
+    institution: UMass Chan - Baystate
+    year: 2024
   - course: Emergency Medicine Research Fellowship
     institution: UMass Chan - Baystate
     year: 2023
@@ -28,7 +31,7 @@ name: Mat Goebel
 organizations:
 - name: University of Massachusetts Chan Medical School - Baystate
   url: ""
-role: Research Fellow
+role: EMS Fellow
 social:
 - icon: paper-plane
   icon_pack: fa
@@ -57,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Mat Goebel is an emergency medicine physician and research fellow at Baystate Medical Center in Springfield, Massachusetts. His research interests include EMS, EKG, STEMI, cybersecurity, natural language processing, data visualization, and applications of machine learning.
+Mat Goebel is an emergency medicine physician, former research fellow, and current EMS fellow at Baystate Medical Center. His research interests include EMS, STEMI, cardiac arrest, EKGs, cybersecurity, natural language processing, data visualization, and applications of machine learning.
