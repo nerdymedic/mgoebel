@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
-  region: 
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-02-23
-event: ACEP Virtual Grand Rounds
+date: 2022-02-09
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: When All Else Fails - Peri-mortem C-Section
+title: EKG Tape Review - Toxicology
 url_code: 
 url_pdf: 
 url_slides: 
-url_video: https://ecme.acep.org/diweb/catalog/item?id=6479179
+url_video: 
 ---

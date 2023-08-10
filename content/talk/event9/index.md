@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-04-07
-event: SAEM NERDS
+date: 2022-06-01
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: A coordinated social media strategy to aid The Match
+title: EKG Case Review - Bradycardia
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=14FMY8M0gkMV-wiGlt4dG9k6z5JTx8HzT
-url_video: https://youtu.be/N7_H2AEEduU
+url_slides: 
+url_video: 
 ---

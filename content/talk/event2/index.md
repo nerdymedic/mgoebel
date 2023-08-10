@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2022-10-26
-event: Western New England Acute Cardiology Conference
+date: 2023-07-05
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 featured: false
-location: Basketball Hall of Fame
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: Out of Hospital Cardiac Arrest - ED perspective
+title: EKG Case Review
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
+url_slides: 
 url_video: 
 ---

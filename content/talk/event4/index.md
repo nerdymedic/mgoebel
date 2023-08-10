@@ -1,23 +1,23 @@
 ---
 abstract: 
 address:
-  city: Virtual Event
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2022-09-13
-event: 51st Annual Samuel D. Plotkin Cardiovascular Symposium
+date: 2023-02-01
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 featured: false
-location: Virtual Event
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: ECPR / ECLS
+title: EKG Case Review - Ischemia
 url_code: 
 url_pdf: 
 url_slides: 

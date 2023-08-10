@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Washington
+  city: Murray
   country:
   postcode: 
-  region: DC
+  region: UT
   street: 
 all_day: true
 authors: []
-date: 2017-10-29
-event: American College of Emergency Physicians
+date: 2015-05-01
+event: Intermountain Healthcare EMS Conference
 event_url: 
 featured: false
-location: Walter E. Washington Convention Center
+location: Intermountain Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
+title: Killer EKGs (other than STEMI)
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
-url_video: 
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJeElzYVd1X0hxT1k
+url_video: https://www.youtube.com/watch?v=pbWcjapgpOA
 ---

@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Virtual Event
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2021-10-13
-event: Western New England Acute Cardiology Conference
+date: 2022-09-13
+event: 51st Annual Samuel D. Plotkin Cardiovascular Symposium
 event_url: 
 featured: false
 location: Virtual Event
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: Cardiac Arrest - ED Perspective
+title: ECPR / ECLS
 url_code: 
 url_pdf: 
-url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
-url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
+url_slides: 
+url_video: 
 ---

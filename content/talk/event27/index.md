@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Chicago
+  city: Orem
   country:
   postcode: 
-  region: IL
+  region: UT
   street: 
 all_day: true
 authors: []
-date: 2015-06-25
-event: Social Media and Critical Care
+date: 2014-04-01
+event: Utah Valley University's 3rd Annual Emergency Services and Disaster Conference
 event_url: 
 featured: false
-location: McCormick Place
+location: Utah Valley University
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction
+title: Prehospital Diagnosis of ST-segment elevated myocardial infarction
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJZ1g4c1VCenNMM2c
+url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWkdPVXpYSDQzWG8
 url_video: 
 ---

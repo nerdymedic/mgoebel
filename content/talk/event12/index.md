@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: West  Springfield
+  city: Springfield
   country:
   postcode: 
   region: MA
   street: 
 all_day: true
 authors: []
-date: 2020-08-31
-event: Controversies and Consensus in Emergency Medicine
+date: 2021-10-13
+event: Western New England Acute Cardiology Conference
 event_url: 
 featured: false
-location: Marriott West Springfield
+location: Virtual Event
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now!
+title: Cardiac Arrest - ED Perspective
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/file/d/1y3uLeBHCLF7YWhuchzfXqYJteBxEli-5/view?usp=sharing
-url_video: https://www.youtube.com/watch?v=e3RKE7KHYIU
+url_slides: https://docs.google.com/document/d/1LBXBN82ZVfboterkbB5gQVWYbeVtC6Zyrw56EysroY0/edit
+url_video: https://www.youtube.com/watch?v=7_a3gh46mfU
 ---

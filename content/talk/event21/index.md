@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Marina Del Rey
   country:
   postcode: 
-  region: UT
+  region: CA
   street: 
 all_day: true
 authors: []
-date: 2015-05-01
-event: Intermountain Healthcare EMS Conference
+date: 2018-09-07
+event: California  ACEP
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Marina del Rey Marriott
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: Killer EKGs (other than STEMI)
+title: Surviving Suicide - coping with the silent epidemic
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJeElzYVd1X0hxT1k
-url_video: https://www.youtube.com/watch?v=pbWcjapgpOA
+url_slides: https://drive.google.com/open?id=1kdBxyg3DZLUWzYafB1B9dpUaCUNn-K1l
+url_video: 
 ---

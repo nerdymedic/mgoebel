@@ -1,23 +1,23 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Virtual Event
   country:
   postcode: 
-  region: MA
+  region: MO
   street: 
 all_day: true
 authors: []
-date: 2021-02-10
-event: Emergency Medicine Grand Rounds
+date: 2021-10-20
+event: Washington University School of Medicine Steven R. Hall Trauma Symposium
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Virtual Event
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: LVADs in the ED
+title: When All Else Fails - Perimortem C-Section
 url_code: 
 url_pdf: 
 url_slides: 

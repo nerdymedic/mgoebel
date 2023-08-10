@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Tampa
   country:
   postcode: 
-  region: MA
+  region: FL
   street: 
 all_day: true
 authors: []
-date: 2022-02-09
-event: Emergency Medicine Grand Rounds
+date: 2023-01-26
+event: National Association of EMS Physicians
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: JW Marriott Tampe Water Street
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: EKG Tape Review - Toxicology
+title: Intraosseous Access Site Does Not Change Rates of Return Of Spontaneous Circulation in Pre-hospital Cardiac Arrest
 url_code: 
 url_pdf: 
-url_slides: 
+url_slides: https://docs.google.com/presentation/d/1DzGKMUMgmxuRuX6_HDVU0fRijd0WF1Rj?rtpof=true&usp=drive_fs
 url_video: 
 ---

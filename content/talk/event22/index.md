@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Washington
   country:
   postcode: 
-  region: UT
+  region: DC
   street: 
 all_day: true
 authors: []
-date: 2016-04-01
-event: Intermountain Healthcare EMS Conference
+date: 2017-10-29
+event: American College of Emergency Physicians
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Walter E. Washington Convention Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now
+title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJOS1zNGx0ODV3UW8
-url_video: https://www.youtube.com/watch?v=2jv00CvY-0Y
+url_slides: https://drive.google.com/open?id=1DCSp4HrBRIvLgnTqpFe-IuBxYdxKZF83
+url_video: 
 ---

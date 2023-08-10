@@ -8,18 +8,18 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2019-08-28
+date: 2021-10-06
 event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
 location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: NSTEMIs that need the cath lab now, Part 1
+title: EKG Tape Review - Ischemia
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
+url_slides: 
 url_video: 
 ---

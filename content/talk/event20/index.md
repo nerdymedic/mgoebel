@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2013-12-01
-event: Department In-service
+date: 2019-08-28
+event: Emergency Medicine Grand Rounds
 event_url: 
 featured: false
-location: Unified Fire Authority
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: Code STEMI Train the Trainer
+title: NSTEMIs that need the cath lab now, Part 1
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJWUNtclNyaUFRTUU
+url_slides: https://drive.google.com/open?id=16IgTanwf2WmmR08PNlvYwCBcdSCL-TqT
 url_video: 
 ---

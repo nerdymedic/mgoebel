@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Provo
+  city: Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2012-02-01
-event: Faculty In-service
+date: 2021-04-01
+event: 
 event_url: 
 featured: false
-location: Utah Fire Rescue Academy
+location: Baystate Medical Center
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: STEMI Pearls and Pitfalls
+title: Getting Better at EMS EKGs Part 1
 url_code: 
 url_pdf: 
-url_slides: https://drive.google.com/open?id=0B5v5sKtJ0CbJSWJZWEljeWh0SlU
-url_video: 
+url_slides: 
+url_video: https://www.youtube.com/watch?v=_jilsSkGA4o
 ---

@@ -8,16 +8,16 @@ address:
   street: 
 all_day: true
 authors: []
-date: 2022-08-17
-event: Emergency Medicine Grand Rounds
+date: 2023-03-01
+event: 
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: 
 math: true
-publishDate: 2023-07-18
+publishDate: 2023-08-10
 summary: 
 tags: []
-title: Pacemaker and ICD Review
+title: EKGs - What Every Intern Needs to Know
 url_code: 
 url_pdf: 
 url_slides: 

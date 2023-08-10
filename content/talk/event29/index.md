@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Springfield
+  city: Murray
   country:
   postcode: 
-  region: MA
+  region: UT
   street: 
 all_day: true
 authors: []
-date: 2023-08-09
-event: UMass Chan - Baystate EM Grand Rounds
+date: 2013-04-01
+event: STEMI Committee Meeting
 event_url: 
 featured: false
-location: Baystate Medical Center
+location: Intermountain Medical Center
 math: true
 publishDate: 2023-08-10
 summary: 
 tags: []
-title: Tachycardias
+title: Best Practices for STEMI care at Intermountain Medical Center
 url_code: 
 url_pdf: 
 url_slides: 
-url_video: https://youtu.be/Slyj27nKTdg
+url_video: 
 ---
