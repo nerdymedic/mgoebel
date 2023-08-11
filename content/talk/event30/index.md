@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Sandy City Fire Department
 math: true
-publishDate: 2023-08-11
+publishDate: []
 summary: 
 tags: []
 title: STEMI Pearls and Pitfalls

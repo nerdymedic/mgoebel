@@ -19,7 +19,7 @@ event_url:
 featured: false
 location: ", talks$location, "
 math: true
-publishDate: ", today(),"
+publishDate: []
 summary: ", talks$summary, "
 tags: []
 title: ", talks$title, "

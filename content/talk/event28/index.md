@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Unified Fire Authority
 math: true
-publishDate: 2023-08-11
+publishDate: []
 summary: 
 tags: []
 title: Code STEMI Train the Trainer

@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Intermountain Medical Center
 math: true
-publishDate: 2023-08-11
+publishDate: []
 summary: 
 tags: []
 title: What’s new in Pre-hospital STEMI

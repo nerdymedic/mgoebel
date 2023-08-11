@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Utah Valley University
 math: true
-publishDate: 2023-08-11
+publishDate: []
 summary: 
 tags: []
 title: Prehospital Diagnosis of ST-segment elevated myocardial infarction

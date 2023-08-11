@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Baystate Medical Center
 math: true
-publishDate: 2023-08-11
+publishDate: []
 summary: 
 tags: []
 title: LVADs in the ED
