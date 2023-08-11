@@ -1,25 +1,25 @@
 ---
 abstract: 
 address:
-  city: Murray
+  city: Springfield
   country:
   postcode: 
-  region: UT
+  region: MA
   street: 
 all_day: true
 authors: []
-date: 2013-04-01
-event: STEMI Committee Meeting
+date: 2021-03-01
+event: 
 event_url: 
 featured: false
-location: Intermountain Medical Center
+location: Baystate Medical Center
 math: true
 publishDate: 2023-08-11
 summary: 
 tags: []
-title: Best Practices for STEMI care at Intermountain Medical Center
+title: Getting Better EKGs in the ED
 url_code: 
 url_pdf: 
 url_slides: 
-url_video: 
+url_video: https://www.youtube.com/watch?v=Wh2p7pwIzPk&t=1s
 ---

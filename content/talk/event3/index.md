@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: 
 math: true
-publishDate: 2023-08-10
+publishDate: 2023-08-11
 summary: 
 tags: []
 title: EKGs - What Every Intern Needs to Know

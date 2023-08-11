@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Marina del Rey Marriott
 math: true
-publishDate: 2023-08-10
+publishDate: 2023-08-11
 summary: 
 tags: []
 title: Surviving Suicide - coping with the silent epidemic

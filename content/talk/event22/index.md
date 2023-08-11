@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: Walter E. Washington Convention Center
 math: true
-publishDate: 2023-08-10
+publishDate: 2023-08-11
 summary: 
 tags: []
 title: An Urban Fire Department’s Experience with Left Ventricular Assist Device Patients

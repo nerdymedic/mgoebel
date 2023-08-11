@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: JW Marriott Tampe Water Street
 math: true
-publishDate: 2023-08-10
+publishDate: 2023-08-11
 summary: 
 tags: []
 title: Intraosseous Access Site Does Not Change Rates of Return Of Spontaneous Circulation in Pre-hospital Cardiac Arrest

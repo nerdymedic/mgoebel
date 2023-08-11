@@ -14,7 +14,7 @@ event_url:
 featured: false
 location: McCormick Place
 math: true
-publishDate: 2023-08-10
+publishDate: 2023-08-11
 summary: 
 tags: []
 title: A Novel Method for Prehospital Diagnosis of ST-segment elevated myocardial infarction
