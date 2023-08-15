@@ -21,5 +21,5 @@ title: Out of Hospital Cardiac Arrest - ED perspective
 url_code: 
 url_pdf: 
 url_slides: https://drive.google.com/file/d/1TVaNpZWG603n5sqwNe_FsmYhAyba9Auy/view?usp=sharing
-url_video: 
+url_video: https://youtu.be/55fvxo-sG5k
 ---
