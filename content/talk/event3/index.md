@@ -12,7 +12,7 @@ date: 2023-03-01
 event: 
 event_url: 
 featured: false
-location: 
+location: Baystate Medical Center
 math: true
 publishDate: []
 summary: 

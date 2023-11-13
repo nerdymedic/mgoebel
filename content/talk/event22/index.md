@@ -9,7 +9,7 @@ address:
 all_day: true
 authors: []
 date: 2017-10-29
-event: American College of Emergency Physicians
+event: American College of Emergency Physicians' Scientific Assembly
 event_url: 
 featured: false
 location: Walter E. Washington Convention Center

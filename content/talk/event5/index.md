@@ -12,7 +12,7 @@ date: 2023-01-26
 event: National Association of EMS Physicians
 event_url: 
 featured: false
-location: JW Marriott Tampe Water Street
+location: JW Marriott Tampa Water Street
 math: true
 publishDate: []
 summary: 

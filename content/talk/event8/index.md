@@ -9,7 +9,7 @@ address:
 all_day: true
 authors: []
 date: 2022-08-17
-event: Emergency Medicine Grand Rounds
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 featured: false
 location: Baystate Medical Center

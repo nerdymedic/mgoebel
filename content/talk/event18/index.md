@@ -9,7 +9,7 @@ address:
 all_day: true
 authors: []
 date: 2021-02-10
-event: Emergency Medicine Grand Rounds
+event: UMass Chan - Baystate EM Grand Rounds
 event_url: 
 featured: false
 location: Baystate Medical Center
